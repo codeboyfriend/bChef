@@ -3,3 +3,21 @@
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 768px) {
+    .box {
+      grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .box {
+      grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 350px) {
+    .box {
+      grid-template-columns: 1fr;
+    }
+}

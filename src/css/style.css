@@ -39,6 +39,12 @@ html::-webkit-scrollbar-thumb {
 }
 
 .box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.boxes {
   border: 2px solid hsl(330deg, 65%, 50%);
   border-radius: 5px;
   outline: hidden;
@@ -46,6 +52,21 @@ html::-webkit-scrollbar-thumb {
 
 @media (max-width: 600px) {
   .res_box {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 768px) {
+  .box {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 500px) {
+  .box {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 350px) {
+  .box {
     grid-template-columns: 1fr;
   }
 }/*# sourceMappingURL=style.css.map */

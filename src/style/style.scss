@@ -45,6 +45,12 @@ html::-webkit-scrollbar-thumb {
 }
 
 .box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.boxes {
   border: 2px solid $brightCyan;
   border-radius: 5px;
   outline: hidden;
