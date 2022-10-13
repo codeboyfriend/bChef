@@ -43,7 +43,7 @@ Before installation, you need to have the following:
 ### Adding a recipe
 Before adding a recipe, please make sure that the new recipe does not already exist. You can easily check this by entering the recipe on the [live](https://bchef.netlify.app/) site to see if its gives a result or not. Or checking the [database](https://github.com/codeboyfriend/bChef/blob/master/public/server/db.json) to see if its already exist.
 
->We use [JSON](https://www.w3schools.com/js/js_json_intro.asp) to store the abbreviations.
+>We use [JSON](https://www.w3schools.com/js/js_json_intro.asp) to store the recipes.
 
 1. In the `/public` folder, open the `/server` folder and subsequently, the `db.json` file you find in it. You can see that each meal is a JSON object of its own with a `name`, `cover`, `description`, `youtube`, `recipe` and `instruction`.
 
@@ -62,7 +62,7 @@ Before adding a recipe, please make sure that the new recipe does not already ex
 :bomb: Now, GO CREATE THOSE ISSUES AND PULL REQUESTS!
 
 # :key: License
-This project is licensed with [MIT](https://www.apache.org/licenses/LICENSE-2.0).
+This project is licensed with [MIT](https://www.mit.org/licenses/LICENSE-2.0).
 
 
 If you like the [project](https://bchef.netlify.app/), Don't forget to leave a star :star: . All support is highly appreciated :100:    
