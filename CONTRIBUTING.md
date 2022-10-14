@@ -87,7 +87,7 @@ npm start
 8. Make your desired changes to any of db.json, style.scss index.html, etc using your preferred editor. 
 
 > **Note** 
-- Never make changes to the package.json, package-lock.json and files in the css folder. 
+- Never make changes to the package.json, package-lock.json, manifest.json, serviceworker.js and files in the css folder. 
 - Try to group your changes into the smallest logical that makes sense, and create a separate pull request for each logical.
 - Try to write a reusable code.
 
