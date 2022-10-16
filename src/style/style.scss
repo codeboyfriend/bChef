@@ -1,0 +1,47 @@
+$bgColor: hsl(0, 0%, 6%);
+$darkBlue: hsl(233, 26%, 24%);
+$brightCyan: hsl(330, 65%, 50%);
+$lightGrayishBlue: hsl(220, 16%, 96%);
+$white: hsl(0, 0%, 100%);
+
+html::-webkit-scrollbar {
+  width: .5rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: $brightCyan;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: $white;
+  border-radius: 5rem;
+}
+
+.btn {
+  background: $white;
+  color: $brightCyan;
+  border-radius: 5px;
+
+  &:hover {
+    background: $lightGrayishBlue;
+  }
+}
+
+.res_box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2rem;
+}
+
+.image_container img{
+  width: 290px;
+  height: 290px;
+  object-fit: cover;
+}
+
+.recipe {
+  text-transform: capitalize;
+}
+
+@import "_media";

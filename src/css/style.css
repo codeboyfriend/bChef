@@ -1,0 +1,45 @@
+html::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: hsl(330deg, 65%, 50%);
+}
+
+html::-webkit-scrollbar-thumb {
+  background: hsl(0deg, 0%, 100%);
+  border-radius: 5rem;
+}
+
+.btn {
+  background: hsl(0deg, 0%, 100%);
+  color: hsl(330deg, 65%, 50%);
+  border-radius: 5px;
+}
+.btn:hover {
+  background: hsl(220deg, 16%, 96%);
+}
+
+.res_box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  gap: 2rem;
+}
+
+.image_container img {
+  width: 290px;
+  height: 290px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.recipe {
+  text-transform: capitalize;
+}
+
+@media (max-width: 600px) {
+  .res_box {
+    grid-template-columns: 1fr;
+  }
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,532 @@
+{
+    "noodles": {
+        "name": "Noodles",
+        "cover": "",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjxhPzXld76AhXxQfEDHS0yANUQwqsBegQIMRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzc05KAgyLG0&usg=AOvVaw11NGJ5-YyAGRQC58do9dN3",
+        "description":"Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings. Noodles are a staple food in many cultures (see Chinese noodles, Filipino noodles, Indonesian noodles, Japanese noodles, Korean noodles, Vietnamese noodles, and Italian pasta) made from unleavened dough which is stretched, extruded, or rolled flat and cut into one of a variety of shapes.",
+        "recipe": ["Noodles", "Seasoning", "Water", "Pepper", "Vegetables"],
+        "instruction": ["Bring 200ml of water to boil in a pot,", "Add the noodles cake, allow to cook until as desired,", "Once the noodles are cooked and the water is close to evaporating, add the seasoning, vegetables and pepper,", "The allow to simmer for one more minutes,", "Enjoy!"]
+    },
+
+    "teriyaki chicken casserole": {
+        "name": "Teriyaki Chicken Casserole",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wvpsxx1468256321.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjintn1ld76AhWcQvEDHTQ0AA4QwqsBegQIExAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4aZr5hZXP_s&usg=AOvVaw0tV6ha05yU4D_W7phMHrL1",
+        "description":"Teriyaki Chicken Casserole: a crowd-pleasing, EASY all-in-one meal with juicy chicken, crisp veggies, rice, and an addictive homemade teriyaki sauce",
+        "recipe": ["Soy sauce,", "Water,", "Brown sugar,", "Ground ginger,", "Minced garlic,", "Cornstarch,", "Chicken breasts,", "Stir-fry vegetables,", "Brown rice" ],
+        "instruction": ["Preheat oven to 350\u00b0 F,", "Spray a 9x13-inch baking pan with non-stick spray,", "Combine soy sauce,", "Combine soy sauce, \u00bd cup water, brown sugar, ginger and garlic in a small saucepan and cover,", "Bring to a boil over medium heat,", "Remove lid and cook for one minute once boiling,", "Stir together the corn starch and 2 tablespoons of water in a separate dish until smooth,", "Once sauce is boiling, add mixture to the saucepan and stir to combine,", "Cook until the sauce starts to thicken then remove from heat,", "Place the chicken breasts in the prepared pan,", "Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through,", "Remove from oven and shred chicken in the dish using two forks,", "Meanwhile, steam or cook the vegetables according to package directions,", "Add the cooked vegetables and rice to the casserole dish with the chicken,", "Add most of the remaining sauce, reserving a bit to drizzle over the top when serving,", "Gently toss everything together in the casserole dish until combined,", "Return to oven and cook 15 minutes,", "Remove from oven and let stand 5 minutes before serving,", "Drizzle each serving with remaining sauce,", "Enjoy!"]
+    },
+    
+    "spicy arrabiata penne": {
+        "name": "Spicy Arrabiata Penne",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/ustsqw1468250014.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6z4mElt76AhUwRfEDHU2bBGkQwqsBegQIQhAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6k97MWc9HxM&usg=AOvVaw1Hwh_2yLOxIAfAO1J8tUUG",
+        "description":"Arrabiata sauce is a spicy tomato sauce that's rich and garlicky, with the perfect balance of sweet thanks to the simmering San Marzano tomatoes vs heat thanks to the crushed red pepper flakes",
+        "recipe": ["Penne rigate,", "Olive oil,", "Garlic,", "Chopped tomatoes,", "Red chile flakes,", "italian seasoning,", "basil,", "Parmigiano-Reggiano,"],
+        "instruction": ["Bring a large pot of water to a boil,", "Add kosher salt to the boiling water, then add the pasta,", "Cook according to the package instructions, about 9 minutes,", "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimme,", "Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes,", "Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste,", "Bring to a boil and cook for 5 minutes", "Remove from the heat and add the chopped basil,", "Drain the pasta and add it to the sauce,", "Garnish with Parmigiano-Reggiano flakes and more basil and serve warm,", "Enjoy!"]
+    },
+
+    "japanese gohan rice": {
+        "name": "Japanese gohan rice",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/kw92t41604181871.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ0bmXlt76AhUrXvEDHbDBDc4QwqsBegQIJxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_M_aJXM6fv4&usg=AOvVaw2pcv1keNYbSvaiBIDzUl20",
+        "description":"Traditional Japanese cuisine is hyper-local and seasonal, and when autumn rolls around, Takikomi Gohan is a home-cooked favorite. That’s because autumn is the season where shinmai(新米) or new rice is released after the harvest, and it’s when rice is considered to be at its best",
+        "recipe": ["Sushi Rice,", "Mirin,", "Pickle Juice,", "Spring Onions,", "Sugar,"],
+        "instruction": ["Rinsing and soaking your rice is key to achieving the perfect texture,", "Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice, the water will become cloudy,", "Drain and rinse again with fresh water,", "Repeat five more times until the water stays clear,", "Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water,", "Bring to the boil, then turn down the heat to a low simmer,", "Cover with a tight-fitting lid with a steam hole and cook for 15 mins,", "Remove from the heat and leave to sit for another 15 mins, then stir through the mirin,", "Remove the lid and give it a good stir", "Serve with any or all of the optional toppings,", "Enjoy!"]
+    },
+
+    "jerk chicken with rice and peas": {
+        "name": "Jerk chicken with rice and peas",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tytyxu1515363282.jpg",
+        "youtube": "",
+        "description":"Jerk marinade or sauce are used to season the meats and consist of allspice, onions, garlic, Scotch bonnet peppers, soy sauce, brown sugar, ginger, cinnamon, nutmeg, cloves, and thyme. These spices are also commonly used as a dry rub known as Jamaican jerk seasoning",
+        "recipe": ["Chicken Thighs,", "Lime,", "Spring Onions,", "Ginger,", "Garlic,", "Onion,", "Red Chilli,", "Thyme,", "Soy Sauce,", "Vegetable Oil,", "Brown Sugar,", "Allspice,", "Basmati Rice,", "Coconut Milk,", "Garlic,", "Allspice,", "Kidney Beans,"],
+        "instruction": ["To make the jerk marinade, combine all the ingredients in a food processor along with 1 tsp salt, and blend to a pur\u00e9e,", "If you\u2019re having trouble getting it to blend, just keep turning off the blender, stirring the mixture, and trying again,", "Eventually it will start to blend up \u2013 don\u2019t be tempted to add water, as you want a thick paste,", "Taste the jerk mixture for seasoning \u2013 it should taste pretty salty,", "But not unpleasantly, puckering salty,", "You can now throw in more chillies if it\u2019s not spicy enough for you,", "If it tastes too salty and sour, try adding in a bit more brown sugar until the mixture tastes well balanced,", "Make a few slashes in the chicken thighs and pour the marinade over the meat, rubbing it into all the crevices", "Cover and leave to marinate overnight in the fridge,", "If you want to barbecue your chicken, get the coals burning 1 hr or so before you\u2019re ready to cook,", "Authentic jerked meats are not exactly grilled as we think of grilling, but sort of smoke-grilled,", "To get a more authentic jerk experience, add some wood chips to your barbecue, and cook your chicken over slow, indirect heat for 30 mins,", "To cook in the oven, heat to 180C\/160C fan\/gas 4,", "Put the chicken pieces in a roasting tin with the lime halves and cook for 45 mins until tender and cooked through", "While the chicken is cooking, prepare the rice & peas,", "Rinse the rice in plenty of cold water, then tip it into a large saucepan with all the remaining ingredients except the kidney beans,", "Season with salt, add 300ml cold water and set over a high heat,",  "Once the rice begins to boil, turn it down to a medium heat, cover and cook for 10 mins,", "Add the beans to the rice, then cover with a lid,", "Leave off the heat for 5 mins until all the liquid is absorbed,", "Squeeze the roasted lime over the chicken and serve with the rice & peas, and some hot sauce if you like it really spicy,", "Enjoy!"]
+    },
+
+    "oxtail with broad beans": {
+        "name": "Oxtail with broad beans",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/1520083578.jpg",
+        "youtube": "",
+        "description":"Jamaicans, they're known for, and they cook a lot of, rice and beans using the red beans. And that's always normally paired with the oxtail and a lot of gravy. And traditionally you do have your steamed cabbage, and you have your fried plantains here",
+        "recipe": ["Oxtail,", "Onion,", "Spring Onions,", "Garlic", "Ginger", "Scotch Bonnet,", "Soy Sauce,", "Fresh Thyme,", "Vegetable Oil,", "Water,", "Water,", "Corn Flour"],
+        "instruction": ["Toss the oxtail with the onion, spring onion, garlic, ginger, chilli, soy sauce, thyme, salt and pepper,", "Heat the vegetable oil in a large frying pan over medium-high heat,", "Brown the oxtail in the pan until browned all over, about 10 minutes,", "Place into a pressure cooker, and pour in 375ml water,", "Cook at pressure for 25 minutes, then remove from heat, and remove the lid according to manufacturer's directions,", "Add the broad beans and pimento berries, and bring to a simmer over medium-high heat,", "Dissolve the cornflour in 2 tablespoons water, and stir into the simmering oxtail,", "Cook and stir a few minutes until the sauce has thickened, and the broad beans are tender,", "Enjoy!"]
+    },
+
+    "laksa king prawn noodles": {
+        "name": "Laksa King Prawn Noodles",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/rvypwy1503069308.jpg",
+        "youtube": "",
+        "description":"This might be our favorite Instant Ramen jazz yet. Laksa is a spicy Southeast Asian coconut milk and broth-based noodle soup. You'll find it in Singapore, Malaysia, and Indonesia in various forms",
+        "recipe": ["Olive Oil,", "Red chili,", "Thai red curry paste,", "Vegetable stock cube,", "Coconut milk,", "Fish sauce,", "Rice noodles,", "Lime,", "King prawns,", "Coriander"],
+        "instruction": ["Heat the oil in a medium saucepan and add the chilli,", "Cook for 1 min, then add the curry paste, stir and cook for 1 min more,", "Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine", "Tip in the coconut milk and bring to the boil,", "Add the fish sauce and a little seasoning,", "Toss in the noodles and cook for a further 3-4 mins until softening,", "Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins,", "Scatter over some of the coriander", "Serve in bowls with the remaining coriander and lime wedges on top for squeezing over,", "Enjoy!"]
+    },
+
+    "ayam percik": {
+        "name": "Ayam Percik",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/020z181619788503.jpg",
+        "youtube": "",
+        "description":"Ayam Percik is a Malaysian grilled chicken that is a staple in Singapore's Ramadan Bazaar when it rolls around every yea",
+        "recipe": ["Chicken Thighs", "Challots", "Ginger", "Garlic Clove", "Cayenne Pepper", "Turmeric", "Cumin", "Coriander", "Fennel", "Tamarind Paste", "Coconut Milk", "Sugar", "Water"],
+        "instruction": ["In a blender, add the ingredients for the spice paste and blend until smooth,", "Over medium heat, pour the spice paste in a skillet or pan and fry for 10 minutes until fragrant,", "Add water or oil 1 tablespoon at a time if the paste becomes too dry,", "Don't burn the paste, Lower the fire slightly if needed,", "Add the cloves, cardamom, tamarind pulp, coconut milk, water, sugar and salt", "Turn the heat up and bring the mixture to boil", "Turn the heat to medium low and simmer for 10 minutes. Stir occasionally,", "It will reduce slightly,", "This is the marinade sauce, so taste and adjust seasoning if necessary", "Don't worry if it's slightly bitter. It will go away when roasting,", "When the marinade sauce has cooled, pour everything over the chicken and marinate overnight to two days,", "Preheat the oven to 425 F. Remove the chicken from the marinade", "Spoon the marinade onto a greased (or aluminum lined) baking sheet,", "Lay the chicken on top of the sauce (make sure the chicken covers the sauce and the sauce isn't exposed or it'll burn) and spread the remaining marinade on the chicken,", "Roast for 35-45 minutes or until internal temp of the thickest part of chicken is at least 175 F,", "Let chicken rest for 5 minutes. Brush the chicken with some of the oil,", "Serve chicken with the sauce over steamed rice (or coconut rice),", "Enjoy!"]
+    },
+
+    "gbegiri soup": {
+        "name": "Gbegiri Soup",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/gbegiri-soup.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwik39ixlt76AhUtRvEDHej6DBUQwqsBegQIPRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D22OoGA23lxY&usg=AOvVaw26Yttvz5beHIhFq4i2ZbnW",
+        "description":"Gbegiri soup is a Yoruba (Western Nigerian) soup prepared with beans. On its own, it looks like baby food but it comes alive when you add Ewedu Soup and meat from your Beef & Chicken Stew.",
+        "recipe": ["Cups Beans (white or brown)", "Potash", "Onions (2 balls)", "Pepper", "Palm oil", "Seasoning (knorr cube, salt etc)", "900g fish/meat – optional"],
+        "instruction": ["We start by removing the seed coat; just transfer a cup of beans to a bowl, sprinkle a handful of water and start robbing and squeezing hard, as you progress the outer coat starts wearing off,", "This is actually the easiest beans de-coating method. Add water, wash, and strain (leaving the white split cotyledons). you should be done with this in about 10 minutes,", "Then pour into a pot and start cooking with just water and about a half teaspoon of powdered potash, the potash act as a catalyst, most people use potash to hasten the cooking process while others avoid it for health or personal reasons,", "Cook for twenty to fifty minutes until it is very soft and ready for mashing,", "After that use a short strong neat broom to mash it till soft (there is often a broom kept for this purpose, the same that is used for ewedu soup),", "Set the mashed beans apart in a clean bowl,", "Set your cooking pot on the burner,", "Use about 10 to 15cl of palm oil, allow heating then add sliced onions, mashed beans,", "Pepper, other seasonings of choice (a cube of knorr or maggi), iru (locust bean), salt to taste, allow to cook for five minutes,", "Enjoy!"]
+    },
+
+    "ewedu soup": {
+        "name": "Ewedu Soup",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/04/ewedu-soup.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjq4rXKlt76AhWGsaQKHe6QCB8QwqsBegQINBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0hccclrT9IE&usg=AOvVaw2-wh8inEWLkiE3-RyysoP5&cshid=1665697465273864",
+        "description":"As you can see above, ewedu soup is not usually served alone in a Yoruba setting, but this is of course not etched in stones. You can always experiment wildly on Nigerian foods to find your favorite combination.",
+        "recipe": ["1/2 teaspoon of powdered potash", "1.5 cups of water", "Ewedu Broom or a blender", "Salt to taste", "1 seasoning cube", "Chilly Pepper to taste", "4-5 spoons of ground crayfish"],
+        "instruction": ["Nicely pick just the leaves (no stem allowed), then go ahead and wash properly with a lot of water to remove any sand left on it,", "Pour 1.5 cups of water to a cooking pot and heat to boiling point, add the washed ewedu leaves, soak the half teaspoon of potash in half cup of water and filter into the pot (to soften the leaves), cook for 7-10 minutes,", "Then use the cooking broom to mash (more like pound) continuously inside the pot, this will turn the leaves to tiny bits after mashing for about five minutes,", "Transfer back to the pot and add the ground crayfish, maggi, salt and pepper to taste. Allow to simmer for just five minutes and you are done with making ewedu soup,", "Serve ewedu soup plus stew and meat with either amala, eba, semo or pounded yam, the exact way a Yoruba man would love it,", "Enjoy!"]
+    },
+
+    "vegetable soup": {
+        "name": "Efo Riro (Yoruba)",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/03/efo-riro.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjC1c3glt76AhXNxQIHHQ04AzsQwqsBegQISxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYKkNhhjVI8c&usg=AOvVaw3fcSZAXgUMZRI3bo8mk_RJ",
+        "description":"Efo Riro Recipe is a very popular Yoruba soup in Nigeria, it is one of my favorite Nigerian soups because of its health benefits. The name ‘efo’ means vegetables, hence it is a Yoruba rich vegetable soup.",
+        "recipe": ["Sliced Spinach leaves (7-10 cups)", "7-10 pieces stock fish ear", "Assorted meat (1KG)", "1 cup of sliced/ground tatashe", "Quarter cup of sliced pepper", "Half cup of sliced onions", "Half Cup of Ground Crayfish", "2-3 spoons of iru (locust beans)", "smoked fish (2-3 medium)", "Palm oil (200ml)", "3 Seasoning cubes"],
+        "instruction": ["Place the washed meat in a pot, add a little of water, season with salt, sliced onions, 2 seasoning cubes and allow to boil for 10-15 minutes, add 1-2 cups of water and cook till tender and the water is almost dried", "Add the smoked fish, stockfish, add a cup of water and cook for another 10-15 minutes depending on the hardness of your stockfish, I love them when they are very soft. The water should be almost dried, don’t allow to burn", "Remove the pot from heat, place another pot on heat and pour in some palm oil, 200ml. Allow to heat before adding the sliced onions, ground pepper/tatashe, stir and allow to fry for another ten minutes while stirring occasionally to avoid burning", "Add the cooked meat/stock fish/smoked fish, stir and allow to simmer for 5 minutes, add the crayfish, iru, stir and allow another 3 minutes", "Add a seasoning cube, salt to taste, stir and add the spinach leaves. Stir all together and allow to simmer for another 3-5 minutes and you just made a delicious pot of efo riro", "This is how to make efo riro soup in Nigeria, please serve with Eba, Pounded yam, rice, beans, Semolina, Amala or any other similar Nigerian Food of choice", "Enjoy!"]
+    },
+
+    "jollof rice": {
+        "name": "Jollof Rice",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/jollof_rice_2.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQtOjvlt76AhWHqaQKHZTKDO8QwqsBegQIPRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz4tNAyRdo70&usg=AOvVaw3X_KhO74zQ9I_XRIfeMLvA",
+        "description":"Jollof rice double as the most popular Nigeria food and also as Nigeria's national food. Almost every Nigerian will readily accept a plate of jollof rice since most of the ethnic groups in Nigeria consider rice as a major staple food.",
+        "recipe": ["4 cups of rice", "1kg Chicken", "1000ml of Ground Fresh tomatoes", "1 Teaspoon Curry powder", "1 teaspoon Thyme", "1 teaspoon Nutmeg powder", "3 seasoning cubes", "2 cups of sliced onions", "300ml vegetable or groundnut oil", "Salt to taste", "2 cloves of garlic", "2 fingers of ginger"],
+        "instruction": ["Season the chicken with a teaspoon of salt, two seasoning cubes, half a teaspoon each of curry and thyme, half a cup of sliced onions then let it sit for some minutes,", "Set on heat and let it boil for 10-15 minutes, would take more time to cook if you are using harder chicken,", "Set aside the chicken and the stock in fresh bowls,", "Peel off the outer back of the ginger/garlic, pound, or grind,", "Parboil rice the normal way, boil about 7 cups of water in a pot, add the four cups of rice and allow boiling for 3 minutes. Then pour out and wash thoroughly with clean water, then set aside in a bowl or plastic sieve,", "Pick out the parboiled tasty chicken and deep-fry, this wouldn’t take about 10 minutes,", "Once you are done with frying the chicken, reduce the oil to 250ml (1 cup) just add the remaining one cup of sliced onions, stir for 1-2 minutes, add the ground tomatoes. I like to cook jollof rice with the same oil I used while frying the meat,", "Frying the tomatoes would take about 20 minutes,", "Fry until when you lift a portion with your frying spoon, you will notice the oil continues to boil in the spoon,", "Once the tomato is well fried, add the meat water (chicken stock) to the fried tomato in the pot, the ground ginger/garlic, half a teaspoon each of curry and thyme, two teaspoons of salt then add 4 cups of water,", "1000ml (Please use the recommended cups), add another seasoning cube. Stir and taste, it should taste overly spiced. Don’t worry, once the rice is added the taste would balance,", "Add the rice,", "Then cover and allow the rice to cook on low heat for 30-45 minutes. Remember that you can add water occasionally,", "Enjoy!"]
+    },
+
+    "ewa agoyin": {
+        "name": "Ewa Agoyin",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/Ewa-agoyin.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiD3ab8lt76AhWGraQKHevpCfIQwqsBegQIVhAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGnsr6s1yYvo&usg=AOvVaw1nezR5Pt7asS6fIlHpCdJG",
+        "description":"Ewa Agoyin is a delicious pepper sauce that is made in Yoruba land and usually served with well-cooked beans. I grew up in Lagos state and I had a lot of this for breakfast. We add fried plantain and assorted meat sometimes, it’s to die for!",
+        "recipe": ["1 cup of dried crushed chilies/peppers", "1 white onion", "Large red onion (one)", "2 cups palm oil", "3 cups of beans/black-eyed peas", "3 cups of beans", "Half teaspoon of salt" ],
+        "instruction": ["Slice half of the red onion and combine the remaining half with the white onions, pepper, a cup of water and blend,", "Set your cooking pot on heat, add the two cups of palm oil and allow heating, but don’t let it bleach. About 3 minutes should do it,", "Once the oil is heated you can add the sliced red onions,", "Fry the onion for about 3 minutes before adding the ground pepper/chillie, onions and water combination,", "Now you fry.,", "This pepper sauce is not like the regular tomato stew, so you would fry for the next 15-25 minutes,", "Add a cube of seasoning and salt to taste. Fry for another 3-4 minutes, and you are done with the making of ewa agoyin (Yoruba pepper sauce),", "Add the beans to boiling water and allow it to simmer for about 5 minutes, turn off the heat, wash and set aside,", "Boil 5 cups of water and start cooking the beans in it. You can add more water in-between. We like it really soft. Add a teaspoon of salt", "Cook until the beans are really soft, then serve with the pepper sauce and agege bread", "Enjoy!"]
+    },
+
+    "spaghetti": {
+        "name": "Spaghetti",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/01/spaghetti-recipe.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVxZSNl976AhVKwAIHHVnzDXMQwqsBegQIWBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxbVrrViGTJM&usg=AOvVaw0MsJEN8JCcfVIq52x2nT0Q",
+        "description":"Spaghetti is food to more than three million people. We could make this Jollof out of it or just boil it and serve with stew/tomato sauce and meatballs",
+        "recipe": ["Spaghetti (1 sachet)", "1 small tin tomatoes", "1 cups of sliced onions", "Fresh tomatoes (see image below)", "Fresh pepper (as much as you can take)", "Ground Crayfish (3 spoons)", "3 seasoning cubes", "Salt to taste", "1 cup of sliced carrot", "Sliced green beans (1 cup)", "1kg Meat/fish", "Green pepper (optional)", "200ml vegetable oil about"],
+        "instruction": ["Cut/chop the carrot, green beans, and green pepper to desirable sizes,", "Parboil the meat and fish with all the necessary ingredients I like to use just 2 seasoning cubes, a teaspoon of salt and a half cup of sliced onions,", "Break spaghetti to smaller lengths (serviceable lengths) and parboil for 5 to 8 minutes, wash and set aside", "Pick out the Meat/fish when it is soft for consumption, you can choose to fry or not, fry with about 250ml of groundnut oil (you can reduce the oil after frying)","After frying the fish (you can reduce the oil if it is above 150ml before adding the tomato paste, fry and stir for 3-5 minutes.", "Add the sliced tomatoes/peppers and onions, fry till the water is dried, this should take about 10-15 minutes. (Remember to stir occasionally to avoid burning),", "Add the meat stock and a cup of water,", "Add the spaghetti and cook for about 15-20 minutes till it is almost soft then add the remaining onions, then the carrot and green beans,", "Cover for the next 4 to 5 minutes and you just made a delicious spaghetti meal, one of the most popular Nigerian foods", "Enjoy!"]
+    },
+
+    "banga stew": {
+        "name": "Banga Stew (Ofe Akwu)",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2014/12/banga-soup..jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifxdafl976AhVH3aQKHeuKC_8QwqsBegQIMhAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTxg6cWXPaiM&usg=AOvVaw0ZN3q7YJ4AuUbmGmGVfstL",
+        "description":"The Banga stew (ofe akwu) is very easy to make and very popular in the eastern part of Nigeria, almost every ingredient used in Making this stew could be harvested from the farm. That is why it is a little easier for folks in rural areas while it remains difficult for people outside the country to find all the ingredients that are required. This is a bowl of a delicious plate of rice, served with banga stew (ofe akwu) plus a sprinkle of peas.",
+        "recipe": ["Banga (palm fruit) (9-10 cups)", "1 kg of assorted meat", "500 g mackerel", "A cup of Sliced onions", "2 cups of sliced fluted pumpkin(optional)", "3 seasoning cubes", "A cup of sliced Scent leave", "Dried fish (200g)", "Half cup of ground Crayfish", "Dried pepper to taste", "Salt to taste"],
+        "instruction": ["Soak the dried fish in hot water and wash thoroughly to remove sand and dirt, blend the crayfish or blend with dry pepper if you are making banga stew with dried pepper,", "Chop the onion and scent leaves, set aside in a plate, I like to make most foods with lots of onions just because of its health benefits,", "Cook the palm fruits (banga fruits) for 30 to 50 minutes then pound with a mortar and pestle,", "Pour water in a bowl, add the pounded palm fruit and try to squeeze out the thick paste", "Wash the meat and mackerel (fish) with water and parboil with a separate pot till it is tender. Season with 2 stock cubes, a teaspoon of salt, half cup of sliced onions),", "Remove the fish after 10 minutes,", "Add the squeezed-out palm fruit juice to the boiling meat on fire,", "Add the (washed, dried fish and blended crayfish) to the cooking pot and allow to simmer for about 10 minutes,", "Add your spices if it is not yet as tasteful as required. (Sachet of “onga soup” and/or a seasoning cube). Stir and add the scent leave (chopped), sliced onions, salt and pepper to taste,", "Add the precooked mackerel fish. I added the fish now because I want to serve them whole. If you add fish earlier to banga stew, they would break before the stew is made,", "Cover and cook for another minute then add the chopped vegetables (Ugu)(optional), allow to simmer for another 3 minutes,", "Serve with rice, yam or cooked beans,", "Enjoy!"]
+    },
+
+    "plantain porridge": {
+        "name": "Plantain Porridge",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/plantain-porridge-1.jpg",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX66S2l976AhWJjqQKHZEkBfgQwqsBegQIExAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGVh0ceWxXlQ&usg=AOvVaw2hYlV1fmkIjzmFLNoceYNC",
+        "description":"Plantain porridge is easy to prepare, it takes the same process as Porridge Yam, although, with a little twist and slight changes in ingredients. This meal (unripe plantain pottage) is very rich in iron and highly recommended for diabetic patients.",
+        "recipe": ["5 medium sized Unripe plantain", "100ml Palm Oil", "1 cup sliced tomatoes,", "1 Tbsp sliced scotch bonnet peppers,", "1 cup sliced onions,", "2 seasoning cubes,", "500g Frozen mackrel,", "200g bonga fish", "2 tablespoons Ground crayfish"],
+        "instruction": ["Peel off the green outer layer of the plantain and slice to any size of your choice. Also, go ahead and slice the tomatoes, peppers and also slice some onions, you need just a cup of sliced onions,", "Precook the fish. Just wash and drop into a pot. Add half teaspoon of salt, half a cup of sliced onions, a seasoning cube and a cup of water. Allow boiling for 10 minutes, pick the fish leaving the stock in the pot,", "Remove bones from the bonga fish, you don’t want the burned skin too, break into tiny pieces and set aside,", "Add 100ml of red (palm) oil to fish stock in the pot, a cup of water (300ml), 2 tbsp of ground crayfish, a seasoning cube, and salt to taste,", "Allow boiling,", "Add the sliced plantain, spray the sliced tomato/onions/fresh pepper at the top,", "Add the fish and cover to cook for 15-20 minutes,", "After 15 minutes, check to see if the water is dried and the plantain is properly cooked,", "Stir all together and you just made a delicious plantain porridge,", "Enjoy!"]
+    },
+
+    "spicy arrabiata pennee": {
+        "name": "Spicy Arrabiata Penne",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/ustsqw1468250014.jpg",
+        "youtube": "",
+        "description":"Arrabiata sauce is a luscious and spicy tomato sauce made with fresh or canned tomatoes, dry red chili flakes, and lots of garlic. In Italian, arrabiata means angry, which is an apt name for this spicy red sauce. Arrabiata is usually served on penne pasta, though any pasta can be used. For the photos I happened to use a red chickpea rotini. Arrabiata sauce can make almost any pasta taste amazing!",
+        "recipe": ["Penne rigate", "Olive oil", "Garlic", "Chopped tomatoes", "Red chile flakes", "Italian seasoning", "Basil", "Parmigiano-Reggiano"],
+        "instruction": ["Bring a large pot of water to a boil,", "Add kosher salt to the boiling water, then add the pasta,", "Cook according to the package instructions, about 9 minutes,", "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer,", "Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes,", "Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste,", "Bring to a boil and cook for 5 minutes,", "Remove from the heat and add the chopped basil,", "Drain the pasta and add it to the sauce,", "Garnish with Parmigiano-Reggiano flakes and more basil and serve warm,", "Enjoy!"]
+    },
+
+    "apple frangipan tart": {
+        "name": "Apple Frangipan Tart",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wxywrq1468235067.jpg",
+        "youtube": "",
+        "description":"Apple Frangipane Tart is a classic and elegant treat fit for any dessert table. A crisp, sweet-crust is filled with rich almond frangipane filling, baked with sliced apples and finished with apricot preserves.",
+        "recipe": ["Digestive biscuits", "Butter", "Bramley apples", "Butter", "Caster sugar", "Free-range eggs", "Gground almonds", "Almond extract", "Flaked almonds"],
+        "instruction": ["Preheat the oven to 200C\/180C Fan\/Gas 6,", "Put the biscuits in a large re-sealable freezer bag and bash with a rolling pin into fine crumbs,", "Melt the butter in a small pan, then add the biscuit crumbs and stir until coated with butter,", "Tip into the tart tin and, using the back of a spoon, press over the base and sides of the tin to give an even layer,", "Chill in the fridge while you make the filling,", "Cream together the butter and sugar until light and fluffy,", "You can do this in a food processor if you have one,", "Process for 2-3 minutes. Mix in the eggs, then add the ground almonds and almond extract and blend until well combined,", "Peel the apples, and cut thin slices of apple,", "Do this at the last minute to prevent the apple going brown. Arrange the slices over the biscuit base,", "Spread the frangipane filling evenly on top. Level the surface and sprinkle with the flaked almonds,", "Bake for 20-25 minutes until golden-brown and set. Remove from the oven and leave to cool for 15 minutes,", "Remove the sides of the tin,", "An easy way to do this is to stand the tin on a can of beans and push down gently on the edges of the tin,", "Transfer the tart, with the tin base attached, to a serving plate,", "Serve warm with cream, fraiche or ice cream", "Enjoy!"]
+    },
+
+    "apple and blackberry crumble": {
+        "name": "Apple & Blackberry Crumble",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/xvsurr1511719182.jpg",
+        "youtube": "",
+        "description":"This is a healthy twist on an apple and blackberry crumble recipe. It's made with muesli, oats and nuts for extra crunch.",
+        "recipe": ["Plain Flour", "Butter", "Caster Sugar", "Butter", "Braeburn Apples", "Demerara Sugar", "Blackberrys", "Cinnamon", "Ice Cream"],
+        "instruction": ["Heat oven to 190C\/170C fan\/gas 5. Tip the flour and sugar into a large bowl,", "Add the butter, then rub into the flour using your fingertips to make a light breadcrumb texture,", "Do not overwork it or the crumble will become heavy,", "Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly coloured,", "Meanwhile, for the compote, peel, core and cut the apples into 2cm dice,", "Put the butter and sugar in a medium saucepan and melt together over a medium heat,", "Cook for 3 mins until the mixture turns to a light caramel,", "Stir in the apples and cook for 3 mins,", "Add the blackberries and cinnamon, and cook for 3 mins more,", "Cover, remove from the heat, then leave for 2-3 mins to continue cooking in the warmth of the pan,", "To serve, spoon the warm fruit into an ovenproof gratin dish, top with the crumble mix, then reheat in the oven for 5-10 mins,", "Serve with vanilla ice cream,", "Enjoy!"]
+    },
+
+    "apam balik": {
+        "name": "Apam balik",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/adxcbq1619787919.jpg",
+        "youtube": "",
+        "description":"Apam balik also known as Martabak Manis, terang bulan, peanut pancake or mànjiānguǒ, is a sweet dessert originating in Chinese cuisine which now consists of many varieties at specialist roadside stalls or restaurants throughout Brunei, Indonesia, Malaysia and Singapore",
+        "recipe": ["Milk", "Oil", "Eggs", "Flour", "Baking Powder","Salt", "Unsalted Butter", "Sugar", "Peanut Butter"],
+        "instruction": ["Mix milk, oil and egg together,", "Sift flour, baking powder and salt into the mixture,", "Stir well until all ingredients are combined evenly,", "Spread some batter onto the pan,", "Spread a thin layer of batter to the side of the pan,", "Cover the pan for 30-60 seconds until small air bubbles appear,", "Add butter, cream corn, crushed peanuts and sugar onto the pancake,", "Fold the pancake into half once the bottom surface is browned,", "Cut into wedges and best eaten when it is warm", "Enjoy!"]
+    },
+
+    "bakewell tart": {
+        "name": "Bakewell tart",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/xqwwpy1483908697.jpg",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=1ahpSTf_Pvk",
+        "description":"A Bakewell tart is an English confection consisting of a shortcrust pastry shell beneath layers of jam, frangipane, and a topping of flaked almonds. It is a variant of the Bakewell pudding, closely associated with the town of Bakewell in Derbyshire",
+        "recipe": ["Plain Flour", "Chilled butter", "Cold water", "Raspberry jam", "Butter", "Caster sugar", "Ground almonds", "Free-range egg, beaten", "Almond extract", "Flaked almonds"],
+        "instruction": ["Grease a 1 litre\/2 pint pie dish with butter,", "Cut the crusts off the bread,", "Spread each slice with on one side with butter, then cut into triangles,", "Arrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas,", "Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread,", "Finish with a layer of bread, then set aside.\r\nGently warm the milk and cream in a pan over a low heat to scalding point,", "Don't let it boil, Crack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale,", "Add the warm milk and cream mixture and stir well, then strain the custard into a bowl,", "Pour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes,", "Preheat the oven to 180C\/355F\/Gas 4,", "Place the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown,", "Enjoy!"]
+    },
+
+    "bread and butter Pudding": {
+        "name": "Bread and Butter Pudding",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wyrqqq1468233628.jpg",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=Vz5W1-BmOE4",
+        "description":"Bread and butter pudding is a traditional bread pudding in British cuisine. Slices of buttered bread scattered with raisins are layered in an oven dish, covered with an egg custard mixture seasoned with nutmeg, vanilla, or other spices, then baked",
+        "recipe": ["Butter", "Bread", "Sultanas", "Cinnamon", "Milk", "Double cream", "Eggs", "Sugar", "Nutmeg"],
+        "instruction": ["To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs,", "Add the water, mixing to form a soft dough.\r\nRoll out the dough on a lightly floured work surface and use to line a 20cm\/8in flan tin,", "Leave in the fridge to chill for 30 minutes.\r\nPreheat the oven to 200C\/400F\/Gas 6 (180C fan),", "Line the pastry case with foil and fill with baking beans,", "Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base,", "For the filing, spread the base of the flan generously with raspberry jam,", "Melt the butter in a pan, take off the heat and then stir in the sugar,", "Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.\r\nBake for about 35 minutes,", "If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning,", "Enjoy!"]
+    },
+
+    "beef wellington": {
+        "name": "Beef Wellington",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/vvpprx1487325699.jpg",
+        "description":"It is a special cut of meat that is to be celebrated on. Beef Wellington is know to be a decadent meat with an AMAZING presentation. The combination of a thick, juicy beef tenderloin, special duxelles and prosciutto all wrapped in a pastry shell is pure heaven",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=FS8u1RBdf6I",
+        "recipe": ["mushrooms", "English Mustard", "Olive Oil", "Beef Fillet", "Parma ham", "Puff Pastry", "Flour", "Egg Yolks"],
+        "instruction": ["Put the mushrooms into a food processor with some seasoning and pulse to a rough paste,", "Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms,", "Spread out on a plate to cool,", "Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side,", "Remove the beef from the pan and leave to cool, then brush all over with the mustard,", "Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows,", "With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle,", "Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape,", "Twist the ends of the cling film to secure,", "Chill for 15-20 mins to allow the beef to set and keep its shape,", "Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a \u00a31 coin,", "Remove the cling film from the beef, then lay in the centre. Brush the surrounding pastry with egg yolk", "Fold the ends over, the wrap the pastry around the beef, cutting off any excess,", "Turn over, so the seam is underneath, and place on a baking sheet,", "Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest,", "Heat the oven to 200C, 400F, gas 6,", "Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk,", "Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins,", "Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice,", "The beef should still be pink in the centre when you serve it,", "Enjoy!"]
+    },
+
+    "baingan bharta": {
+        "name": "Baingan Bharta",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/urtpqw1487341253.jp",
+        "description":"Baingan bharta is an Indian dish prepared by mincing grilled eggplant and mixing it with tomato, onion, herbs and spices. Grilling the eggplant over charcoal or direct fire infuses the dish with a smoky flavour.",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=-84Zz2EP4h4",
+        "recipe": ["Aubergine", "Onion", "Tomatoes", "Garlic", "Green Chili", "Red Chili Powder", "Oil", "Coriander Leaves", "salt"],
+        "instruction": ["Rinse the baingan (eggplant or aubergine) in water,", "Pat dry with a kitchen napkin,", "Apply some oil all over and keep it for roasting on an open flame,", "You can also grill the baingan or roast in the oven,", "But then you won't get\r\nthe smoky flavor of the baingan,", "Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked,", "You could also embed some garlic cloves in the baingan and then roast it,", " Roast the aubergine till its completely cooked and tender,", "With a knife check the doneness,", "The knife should slid\r\neasily in aubergines without any resistance,", "Remove the baingan and immerse in a bowl of water till it cools down,", "You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan,", "This is an optional step, Use natural charcoal for this method,", "Heat a small piece of charcoal on flame till it becomes smoking hot and red,", "Make small cuts on the baingan with a knife,", "Place the red hot charcoal in the same plate where the roasted aubergine is kept,", " Add a few drops of oil on the charcoal, The charcoal would begin to smoke,", " As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl,", "Allow the charcoal smoke to get infused for 1 to 2 minutes,", "The more you do, the more smoky the baingan bharta will become, I just keep for a minute", "Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka,", "Peel the skin from the roasted and smoked eggplant,", "Chop the cooked eggplant finely or you can even mash it", "In a kadai or pan, heat oil, Then add finely chopped onions and garlic,", "Saute the onions till translucent. Don't brown them, Add chopped green chilies and saute for a minute,", "Add the chopped tomatoes and mix it well, Bhuno (saute) the tomatoes till the oil starts separating from the mixture,", "Now add the red chili powder, Stir and mix well,", " Add the chopped cooked baingan, Stir and mix the chopped baingan very well with the onion, tomato masala mixture,", "Season with salt, Stir and saute for some more 4 to 5 minutes more,", "Finally stir in the coriander leaves with the baingan bharta or garnish it with them,", "Serve Baingan Bharta with phulkas, rotis or chapatis,", "It goes well even with bread, toasted or grilled bread and plain rice or jeera rice,", "Enjoy!"]
+    },
+
+    "beef brisket pot roast": {
+        "name": "Beef Brisket Pot Roast",
+        "cover": "https:https:\/\/www.themealdb.com\/images\/media\/meals\/ursuup1487348423.jpg",
+        "description":"A boneless chuck roast is our first pick for pot roast. It has outstanding marbling, making the roast tender and juicy when braised. Cut from the shoulder just above the short rib, it is a tougher, albeit more affordable cut than those from the front part of the animal, like the sirloin or short loin.",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=gh48wM6bPWQ",
+        "recipe": ["Beef Brisket", "Onion", "Thyme", "Garlic", "Rosemary", "Bay Leaves", "Oil", "beef stock", "salt", "Carrots", "Mustard", "Potatoes"],
+        "instruction": ["Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want,", "If there are any large chunks of fat, cut them off and discard them,", "Large pieces of fat will not be able to render out completely,", "Using a sharp knife, score the fat in parallel lines, about 3\/4-inch apart. Slice through the fat, not the beef,", " Repeat in the opposite direction to make a cross-hatch pattern,", "Salt the brisket well and let it sit at room temperature for 30 minutes,", "Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions,", "Pat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat,", "Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned,", "(If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.),", "Turn the brisket over and cook for a few minutes more to brown the other side,", "Saut\u00e9 the onions and garlic: When the brisket has browned, remove it from the pot and set aside,", "There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil,", "Add the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Saut\u00e9, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes,", "Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300\u00b0F,", " Use kitchen twine to tie together the bay leaves, rosemary and thyme,", "Move the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs,", "Bring the stock to a boil on the stovetop, Cover the pot, place the pot in the 300\u00b0F oven and cook for 3 hours,", "Carefully flip the brisket every hour so it cooks evenly,", " Add carrots, continue to cook: After 3 hours, add the carrots,", "Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender,", "Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board,", "Cover it with foil, Pull out and discard the herbs. 7 Make sauce (optional)", "At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions,", "/* If you serve as is, skip this step */", "To make a sauce, remove the carrots and half of the onions, set aside and cover them with foil,", "Pour the ingredients that are remaining into the pot into a blender, and pure until smooth,", "If you want, add 1 tablespoon of mustard to the mix,", "Put into a small pot and keep warm, Slice the meat across the grain: Notice the lines of the muscle fibers of the roast,", "This is the \"grain\" of the meat,", "Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1\/4-inch to 1\/2-inch slices,", "Serve with the onions, carrots and gravy,", "Serve with mashed, roasted or boiled potatoes, egg noodles or polenta,", "Enjoy!"]
+    },
+
+    "beef sunday roast": {
+        "name": "Beef Sunday Roast",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/ssrrrs1503664277.jpg",
+        "description":"A Sunday roast or roast dinner is a traditional British meal that is typically served on Sunday, although can be consumed throughout the week, consisting of roasted meat, roast potatoes and accompaniments such as Yorkshire pudding, stuffing, gravy, and condiments such as apple sauce, mint sauce, or redcurrant jelly",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=2l3-dBdNehY",
+        "recipe": ["Beef", "Broccoli", "Potatoes", "Carrots", "plain flour", "Eggs", "milk", "sunflower oil"],
+        "instruction": ["Cook the Broccoli and Carrots in a pan of boiling water until tender,", "Roast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook,", "To make the Yorkshire puddings:\r\nHeat oven to 230C\/fan 210C\/gas 8,", "Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through,", "To make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth,", "Gradually add 200ml milk and carry on beating until the mix is completely lump-free, Season with salt and pepper,", "Pour the batter into a jug, then remove the hot tins from the oven,", "Carefully and evenly pour the batter into the holes,", "Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned,", "Serve immediately,", "Plate up and add the Gravy as desired,", "Enjoy!"]
+    },
+
+    "braised beef chilli": {
+        "name": "Braised Beef Chilli",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/uuqvwu1504629254.jpg",
+        "description":"A delicious one-pot of spicy braised beef is a great, stress-free way to fill up a hungry crowd",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=z4kSoJgsu6Y",
+        "recipe": ["Beef", "Olive Oil", "Chorizo", "Cumin", "All spice", "Cloves", "Onion", "Garlic", "Cinnamon stick", "Bay Leaves,", "Oregano,", "Ancho Chillies", "Balsamic Vinegar", "Plum Tomatoes", "Tomato Ketchup", "Dark Brown Sugar", "Borlotti Beans"],
+        "instruction": ["Preheat the oven to 120C\/225F\/gas mark,", "Take the meat out of the fridge to de-chill,", "Pulse the onions and garlic in a food processor until finely chopped,", "Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden,", "Set to one side and add another small slug of oil to brown the chorizo,", "Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil,", "Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar,", "Put all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven,", "After 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks,", "Enjoy!"]
+    },
+
+    "beef stroganoff": {
+        "name": "Beef stroganoff",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/svprys1511176755.jpg",
+        "description":"Beef Stroganoff or Beef Stroganov is an originally Russian dish of sautéed pieces of beef served in a sauce of mustard and smetana. From its origins in mid-19th-century Russia, it has become popular around the world, with considerable variation from the original recipe. Mushrooms are common in many variants",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=PQHgQX1Ss74",
+        "recipe": ["Butter", "Olive Oil", "Mushrooms", "Beef Fillet", "Plain Flour", "Creme Fraiches", "Onion", "Garlic", "English Mustard", "Beef Stock", "Parsley"],
+        "instruction": ["Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all,", "Crush in the garlic and cook for a 2-3 mins further, then add the butter,", "Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened,", "Season everything well, then tip onto a plate, Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour,", "Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well coloured,", "Tip the onions and mushrooms back into the pan, Whisk the cr\u00e8me fra\u00eeche, mustard and beef stock together, then pour into the pan,", "Cook over a medium heat for around 5 mins,", "Scatter with parsley, then serve with pappardelle or rice,", "Enjoy!"]
+    },
+
+    "broccoli and stilton soup": {
+        "name": "Broccoli & Stilton soup",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tvvxpv1511191952.jpg",
+        "description":"A smooth vegetable soup with blue cheese that's great for a comforting meal. A broccoli and stilton soup recipe triple-tested by the BBC Good Food team",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=_HgVLpmNxTY",
+        "recipe": ["Rapeseed Oil", "Onion", "Celery", "Leek", "Potatoes", "Butter", "Vegetable Stock", "Broccoli", "Stilton Chees"],
+        "instruction": ["Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft,", "Add a splash of water if the onions start to catch, add the celery, leek, potato and a knob of butter,", "Stir until melted, then cover with a lid,", "Allow to sweat for 5 minute, Remove the lid,", "Pour in the stock and add any chunky bits of broccoli stalk,", "Cook for 10-15 minutes until all the vegetables are soft,", "Add the rest of the broccoli and cook for a further 5 minutes,", "Carefully transfer to a blender and blitz until smooth,", "Stir in the stilton, allowing a few lumps to remain,", "Season with black pepper and serve,", "Enjoy!"]
+    },
+
+    "bean and sausage hotpot": {
+        "name": "Bean & Sausage Hotpot",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/vxuyrx1511302687.jpg",
+        "description":"You will surely enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=B0YX0yPX4Wo",
+        "recipe": ["Sausages", "Tomato Sauce", "Butter Beans", "Black Treacle", "English Mustard"],
+        "instruction": ["In a large casserole, fry the sausages until brown all over \u2013 about 10 mins,", "nAdd the tomato sauce, stirring well, then stir in the beans, treacle or sugar and mustard,", "Bring to the simmer, cover and cook for 30 mins,", "Great served with crusty bread or rice,", "Enjoy!"]
+    },
+
+    "banana pancakes": {
+        "name": "Banana Pancakes",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/sywswr1511383814.jpg",
+        "description":"TESTED & PERFECTED RECIPE - Fluffy on the inside, crispy on the outside, & delicately flavored with bananas, these are phenomenal banana pancakes",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=kSKtb2Sv-_U",
+        "recipe": ["Banana", "Eggs", "Baking Powder", "Vanilla Extract", "Oil", "Pecan Nuts", "Raspberries"],
+        "instruction": ["In a bowl, mash the banana with a fork until it resembles a thick pur\u00e9e. Stir in the eggs, baking powder and vanilla,", "Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate", "Repeat the process with the remaining oil and batter,", "Top the pancakes with the pecans and raspberries,", "Enjoy!"]
+    },
+
+    "beef dumpling stew": {
+        "name": "Beef Dumpling Stew",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/uyqrrv1511553350.jpg",
+        "description":"Tender chunks of beef simmer for hours in a rich gravy with carrots and potatoes, then are topped with homemade dumplings",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=6NgheY-r5t0",
+        "recipe": ["Olive Oil", "Butter", "Beef", "Plain Flour", "Garlic", "Onions", "Celery", "Carrots", "Leek", "Swede", "Red Wine", "Beef Stock", "Bay Leaf", "Thyme", "Parsley", "Baking Powder", "Suet", "Water"],
+        "instruction": ["Preheat the oven to 180C\/350F\/Gas 4.\r\n\r\nFor the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides,", "Sprinkle over the flour and cook for a further 2-3 minutes.\r\n\r\nAdd the garlic and all the vegetables and fry for 1-2 minutes,", "Stir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste,", "Season with salt and freshly ground black pepper,", "Cover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender,", "For the dumplings, sift the flour, baking powder and salt into a bowl,", "Add the suet and enough water to form a thick dough.\r\n\r\nWith floured hands, roll spoonfuls of the dough into small balls,", "After two hours, remove the lid from the stew and place the balls on top of the stew,", "Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender,", "(If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)", "To serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings,", "Sprinkle with chopped parsley,", "Enjoy!"]
+    },
+
+    "beef and mustard pie": {
+        "name": "Beef and Mustard Pie",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/sytuqu1511553755.jpg",
+        "description":"Beef and mustard pie recipe, You'll really enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=nMyBC9staMU",
+        "recipe": ["Beef", "plain flour", "Rapeseed Oil", "Red Wine", "Beef Stock", "Onion", "Carrots", "Thyme", "Mustard", "Egg Yolks", "Puff Pastry", "Green bean", "Butter", "Salt", "Pepper"],
+        "instruction": ["Preheat the oven to 150C\/300F\/Gas", "Toss the beef and flour together in a bowl with some salt and black pepper", "nHeat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole,", "Fry until browned on each side, then remove and set aside. Repeat with the remaining oil and bee,", "Return the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper,", "Cover with a lid and place in the oven for two hours,", "Remove from the oven, check the seasoning and set aside to cool,", "Remove the thyme, When the beef is cool and you're ready to assemble the pie, preheat the oven to 200C\/400F\/Gas", "Transfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top,", "Brush the top of the pastry with more beaten egg,", "Trim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through,", "For the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender,", "Drain and toss with the butter, then season with black pepper,", "To serve, place a large spoonful of pie onto each plate with some green beans alongside,", "Enjoy!"]
+    },
+
+    "beef and oyster pie": {
+        "name": "Beef and Oyster pie",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wrssvt1511556563.jpg",
+        "description":"Steak and oyster pie, also known as beef and oyster pie is a traditional Victorian English dish. It is also common in Australia and New Zealand. In Ireland, it has been prepared by the Ballymaloe House, and as a classic dish of the Ballymaloe Cookery School",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=ONX74yP6JnI",
+        "recipe": ["Beef", "Olive Oil", "shallots", "Garlic", "Bacon", "Thyme", "Bay Leaf", "Stout", "Beef Stock", "Corn Flour", "Oysters", "Plain Flour", "Salt", "Butter", "Eggs"],
+        "instruction": ["Season the beef cubes with salt and black pepper,", "Heat a tablespoon of oil in the frying pan and fry the meat over a high heat,", "Do this in three batches so that you don\u2019t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over,", "Add extra oil if the pan seems dry,", "In the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds,", "Add the bacon and fry until slightly browned,", "Transfer the onion and bacon mixture to the casserole dish and add the herbs,", "Preheat the oven to 180C\/350F\/Gas,", "Pour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan,", "Pour the stout over the beef in the casserole dish and add the stock,", "Cover the casserole and place it in the oven for 1\u00bd-2 hours, or until the beef is tender and the sauce is reduced,", "Skim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste,", "Put the casserole dish on the hob \u2013 don\u2019t forget that it will be hot \u2013 and simmer for 1-2 minutes, stirring, until thickened, Leave to cool", "Increase the oven to 200C\/400F\/Gas 6. To make the pastry, put the flour and salt in a very large bowl,", "Grate the butter and stir it into the flour in three batches,", "Gradually add 325ml\/11fl oz cold water \u2013 you may not need it all \u2013 and stir with a round-bladed knife until the mixture just comes together,", "Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g\/9oz for the pie lid,", "Roll the rest of the pastry out until about 2cm\/\u00bein larger than the dish you\u2019re using,", "Line the dish with the pastry then pile in the filling, tucking the oysters in as well,", "Brush the edge of the pastry with beaten egg.\r\nRoll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze,", "Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling"]
+    },
+
+    "blackberry fool": {
+        "name": "Blackberry Fool",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/rpvptu1511641092.jpg",
+        "description":"A blueberry fool is simply a delicious blueberry compote swirled with rich cream",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=kniRGjDLFrQ",
+        "recipe": ["Hazlenuts", "Butter", "Caster Sugar", "Lemon", "Plain Flour", "Baking Powder", "Blackberrys", "Sugar", "Caster Sugar", "Lemon Juice", "Double Cream", "Yogurt", "Salt", "Mint"],
+        "instruction": ["For the biscuits, preheat the oven to 200C\/180C (fan)\/Gas 6 and line two large baking trays with baking parchment,", "Scatter the nuts over a baking tray and roast in the oven for 6-8 minutes, or until golden-brown,", "Watch them carefully so that they don\u2019t have a chance to burn,", "Remove from the oven, tip onto a board and leave to cool,", "Put the butter and sugar in a large bowl and beat with a wooden spoon until light and creamy,", "Roughly chop the cooled nuts and add to the creamed butter and sugar,along with the lemon zest, flour and baking powder", "Stir well until the mixture comes together and forms a ball \u2013 you may need to use your hands,", "Divide the biscuit dough into 24 even pieces and roll into small balls,", "Place the balls the prepared baking trays, spaced well apart to allow for spreading,", "Press the biscuits to flatten to around 1cm\/\u00bdin thick,", "Bake the biscuits, one tray at a time, for 12 minutes or until very pale golden-brown. Leave to cool on the trays,", "They will be very soft when you take them out of the oven, but will crisp as they cool,", "Store in an airtight tin and eat within five days.\r\nFor the fool, rinse the blackberries in a colander to wash away any dust or dirt,", "Put the blackberries in a non-stick saucepan and sprinkle over the caster sugar,", "Stir in the lemon juice and heat gently for two minutes, or until the blackberries begin to soften and release their juices,", "Remove and reserve 12 blackberries for decoration and continue cooking the rest.\r\nSimmer the blackberries very gently for 15 minutes, stirring regularly until very soft and squidgy,", "Remove from the heat and press the berries and juice through a sieve over a bowl, using the bottom of a ladle to help you extract as much of the pur\u00e9e as possible,", "Leave the pur\u00e9e to cool and discard the seeds. You should end up with around 325ml\/11fl oz of pur\u00e9e,", "Put the cream and yoghurt in a large bowl and whip with an electric whisk until soft peaks form when the whisk is removed from the bowl \u2013 the acidity of the fruit will thicken the cream further, so don\u2019t take it too far,", "When the pur\u00e9e is completely cold, adjust the sweetness to taste by adding more sugar if needed. Pour it into the bowl with the whipped cream and yoghurt and stir just once or twice until very lightly combined,", "Spoon the blackberry fool into individual wide, glass dishes \u2013 or one large, single bowl,", " It should look quite marbled, so don\u2019t over-stir it. Scatter a few tiny mint leaves on top and decorate with the reserved blackberries,", "Sprinkle with a little sugar if you like and serve with the hazelnut biscuits,", "Enjoy!"]
+    },
+
+    "battenberg cake": {
+        "name": "Battenberg Cake",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/ywwrsp1511720277.jpg",
+        "description":"Battenberg or Battenburg is a light sponge cake with different sections held together with jam. The cake is covered in marzipan and, when cut in cross section, displays a distinctive two-by-two check pattern alternately coloured pink and yellow",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=aB41Q7kDZQ0",
+        "recipe": ["Butter", "Caster Sugar", "Self-raising Flour", "Almonds", "Baking Powder", "Eggs", "Vanilla Extract", "Almond Extract", "Butter", "Pink Food Colouring", "Apricot", "Marzipan", "Icing Sugar"],
+        "instruction": ["Heat oven to 180C\/160C fan\/gas 4 and line the base and sides of a 20cm square tin with baking parchment (the easiest way is to cross 2 x 20cm-long strips over the base),", "To make the almond sponge, put the butter, sugar, flour, ground almonds, baking powder, eggs, vanilla and almond extract in a large bowl,", "Beat with an electric whisk until the mix comes together smoothly. Scrape into the tin, spreading to the corners, and bake for 25-30 mins \u2013 when you poke in a skewer, it should come out clean,", "Cool in the tin for 10 mins, then transfer to a wire rack to finish cooling while you make the second sponge.\r\nFor the pink sponge, line the tin as above,", "Mix all the ingredients together as above, but don\u2019t add the almond extract. Fold in some pink food colouring.,", "Then scrape it all into the tin and bake as before. Cool,", "To assemble, heat the jam in a small pan until runny, then sieve,", "Barely trim two opposite edges from the almond sponge, then well trim a third edge. Roughly measure the height of the sponge, then cutting from the well-trimmed edge, use a ruler to help you cut 4 slices each the same width as the sponge height. Discard or nibble leftover sponge,", "Repeat with pink cake,", "Take 2 x almond slices and 2 x pink slices and trim so they are all the same length,", "Roll out one marzipan block on a surface lightly dusted with icing sugar to just over 20cm wide, then keep rolling lengthways until the marzipan is roughly 0.5cm thick,", "Brush with apricot jam, then lay a pink and an almond slice side by side at one end of the marzipan, brushing jam in between to stick sponges, and leaving 4cm clear marzipan at the end,", "Brush more jam on top of the sponges, then sandwich remaining 2 slices on top, alternating colours to give a checkerboard effect. Trim the marzipan to the length of the cakes,", "Carefully lift up the marzipan and smooth over the cake with your hands, but leave a small marzipan fold along the bottom edge before you stick it to the first side,", "Trim opposite side to match size of fold, then crimp edges using fingers and thumb (or, more simply, press with prongs of fork). If you like, mark the 10 slices using the prongs of a fork,", "Assemble second Battenberg and keep in an airtight box or well wrapped in cling film for up to 3 days. Can be frozen for up to a month,", "Enjoy!"]
+    },
+
+    "beef bourguignon": {
+        "name": "Beef Bourguignon",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/vtqxtu1511784197.jpg",
+        "description":"Beef bourguignon or bœuf bourguignon, also called beef Burgundy, and bœuf à la Bourguignonne, is a French beef stew braised in red wine, often red Burgundy, and beef stock, typically flavored with carrots, onions, garlic, and a bouquet garni, and garnished with pearl onions, mushrooms, and bacon",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=SQnr4Z-7rok",
+        "recipe": ["Goose Fat", "Beef Shin", "Bacon", "Challots", "Chestnut Mushroom", "Garlic Clove", "Bouquet Garni", "Tomato Puree", "Red Wine", "Celeriac", "Olive Oil", "Thyme", "Rosemary", "Bay Leaf", "Cardamom"],
+        "instruction": ["Heat a large casserole pan and add 1 tbsp goose fat. Season the beef and fry until golden brown, about 3-5 mins, then turn over and fry the other side until the meat is browned all over, adding more fat if necessary,", "Do this in 2-3 batches, transferring the meat to a colander set over a bowl when browned.\r\nIn the same pan, fry the bacon, shallots or pearl onions, mushrooms, garlic and bouquet garni until lightly browned,", "Mix in the tomato pur\u00e9e and cook for a few mins, stirring into the mixture,", "This enriches the bourguignon and makes a great base for the stew. Then return the beef and any drained juices to the pan and stir through,", "Pour over the wine and about 100ml water so the meat bobs up from the liquid, but isn\u2019t completely covered,", "Bring to the boil and use a spoon to scrape the caramelised cooking juices from the bottom of the pan \u2013 this will give the stew more flavour,", "Heat oven to 150C\/fan 130C\/gas 2. Make a cartouche: tear off a square of foil slightly larger than the casserole, arrange it in the pan so it covers the top of the stew and trim away any excess foil,", "Then cook for 3 hrs. If the sauce looks watery, remove the beef and veg with a slotted spoon, and set aside,", "Cook the sauce over a high heat for a few mins until the sauce has thickened a little, then return the beef and vegetables to the pan,", "To make the celeriac mash, peel the celeriac and cut into cubes. Heat the olive oil in a large frying pan,", "Tip in the celeriac and fry for 5 mins until it turns golden. Season well with salt and pepper,", "Stir in the rosemary, thyme, bay and cardamom pods, then pour over 200ml water, enough to nearly cover the celeriac,", "Turn the heat to low, partially cover the pan and leave to simmer for 25-30 mins.\r\nAfter 25-30 mins, the celeriac should be soft and most of the water will have evaporated,", "Drain away any remaining water, then remove the herb sprigs, bay and cardamom pods,", "Lightly crush with a potato masher, then finish with a glug of olive oil and season to taste,", "Spoon the beef bourguignon into serving bowls and place a large spoonful of the celeriac mash on top,", "Garnish with one of the bay leaves, if you like", "Enjoy!"]
+    },
+
+    "brie wrapped in prosciutto and brioche": {
+        "name": "Beef Bourguignon",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/qqpwsy1511796276.jpg",
+        "description":"This decadent bake from bChef combines slightly sweet French bread with a creamy ham and cheese filling, from BBC Good Food",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=FzNPPD8lbWg",
+        "recipe": ["Plain Flour", "Caster Sugar", "Yeast", "Milk", "Eggs", "Butter", "Brie", "Prosciutto"],
+        "instruction": ["Mix the flour, 1 tsp salt, caster sugar, yeast, milk and eggs together in a mixer using the dough attachment for 5 mins until the dough is smooth,", " Add the butter and mix for a further 4 mins on medium speed. Scrape the dough bowl and mix again for 1 min. Place the dough in a container, cover with cling film and leave in the fridge for at least 6 hrs before using,", "Wrap the Brie in the prosciutto and set aside. Turn out the dough onto a lightly floured surface. Roll into a 25cm circle,", "Place the wrapped Brie in the middle of the circle and fold the edges in neatly,", "Put the parcel onto a baking tray lined with baking parchment and brush with beaten egg,", "Chill in the fridge for 30 mins, then brush again with beaten egg and chill for a further 30 mins,", "Leave to rise for 1 hr at room temperature. Heat oven to 200C\/180C fan\/gas 6, then bake for 22 mins,", "Serve warm and Enjoy!"]
+    },
+
+    "boulangre potatoes": {
+        "name": "Boulangre Potatoes",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/qywups1511796761.jpg",
+        "description":"This boulangere potatoes recipe from bChef is unbelievably delicious, and so easy to make. It's the perfect alternative to herby roasted potatoes",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=gcXPruv1Mjg",
+        "recipe": ["Onions", "Thyme", "Olive Oil", "Potatoes", "Vegetable Stock"],
+        "instruction": ["Heat oven to 200C\/fan 180C\/gas,", "Fry the onions and thyme sprigs in the oil until softened and lightly coloured (about 5 mins),", "Spread a layer of potatoes over the base of a 1.5-litre oiled gratin dish,", "Sprinkle over a few onions (see picture, above) and continue layering, finishing with a layer of potatoes,", "Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp,", "Enjoy!"]
+    },
+
+    "beavertails": {
+        "name": "BeaverTails",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/ryppsv1511815505.jpg",
+        "description":"BeaverTails is a Canadian restaurant chain, specializing in pastries known as BeaverTails, that is operated by BeaverTails Canada Inc. Its namesake products are fried dough pastries, individually hand stretched to resemble beaver's tails, with various toppings added on the pastry",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=2G07UOqU2e8",
+        "recipe": ["Water", "Yeast", "Sugar", "Milk", "Butter", "Eggs", "Salt", "Flour", "Oil", "Lemon", "Cinnamon"],
+        "instruction": ["In the bowl of a stand mixer, add warm water, a big pinch of sugar and yeast,", "Allow to sit until frothy.\r\nInto the same bowl, add 1\/2 cup sugar, warm milk, melted butter, eggs and salt, and whisk until combined,", "Place a dough hook on the mixer, add the flour with the machine on, until a smooth but slightly sticky dough forms,", "Place dough in a bowl, cover with plastic wrap, and allow to proof for 1 1\/2 hours.\r\nCut dough into 12 pieces, and roll out into long oval-like shapes about 1\/4 inch thick that resemble a beaver\u2019s tail,", "In a large, deep pot, heat oil to 350 degrees. Gently place beavertail dough into hot oil and cook for 30 to 45 seconds on each side until golden brown,", "Drain on paper towels, and garnish as desired. Toss in cinnamon sugar, in white sugar with a squeeze of lemon, or with a generous slathering of Nutella and a handful of toasted almonds", "Enjoy!"]
+    },
+
+    "brown stew chicken": {
+        "name": "Brown Stew Chicken",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/sypxpx1515365095.jpg",
+        "description":"Brown stew chicken, also referred to as stew chicken, is a dish typically eaten for dinner throughout the English-speaking Caribbean islands. The dish is popular in Jamaica, Antigua, Trinidad and Tobago, Barbados, Saint Lucia, Grenada, Belize, Dominica and in Caribbean communities throughout the world",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=_gFB1fkNhXs",
+        "recipe": ["Chicken", "Tomato", "Onions", "Garlic Clove", "Red Pepper", "Carrots", "Lime", "Thyme", "Allspice", "Soy Sauce", "Cornstarch", "Coconut Milk", "Vegetable Oil"],
+        "instruction": ["Squeeze lime over chicken and rub well. Drain off excess lime juice", "Combine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces,", "Cover and marinate at least one hour.Heat oil in a dutch pot or large saucepan,", "Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce,", "Lightly brown the chicken a few pieces at a time in very hot oil,", "Place browned chicken pieces on a plate to rest while you brown the remaining pieces,", "Drain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots,", "Stir and cook over medium heat for 10 minutes,", "Mix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender,", "Enjoy!"]
+    },
+
+    "beef lo mein": {
+        "name": "Beef Lo Mein",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/1529444830.jpg",
+        "description":"Lo mein is made of noodles, a protein (usually beef or chicken), vegetables, and a sweet and savory sauce. The recipe here is a starting point. Feel free to swap in other vegetables you have on hand and season to taste",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=ZT9LSsNXXe0",
+        "recipe": ["Beef", "Salt", "Pepper", "Sesame Seed Oil", "Egg", "Starch", "Oil", "Noodles", "Onion", "Minced Garlic", "Ginger", "Bean Sprouts", "Mushrooms", "Water", "Oyster Sauce", "Sugar", "Soy Sauce"],
+        "instruction": ["Marinating the beef in a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1\/2 egg, corn starch,1 Tablespoon of oil and mix together,", "Boiling the in a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds", "After your noodles is done boiling strain and cool with cold water,", "Stir fry and add 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked,", "Set the cooked beef aside\r\nIn a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water,", "Add the noodles to wok\r\nTo make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce,", "Next add the beef to wok and stir-fry,", "Enjoy!"]
+    },
+
+    "baked salmon with fennel and tomatoes": {
+        "name": "Baked salmon with fennel and tomatoes",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/1548772327.jpg",
+        "description":"You'll really enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=xvPR2Tfw5k0",
+        "recipe": ["Fennel", "Parsley", "Lemon", "Cherry Tomatoes", "Olive Oil", "Salmon", "Black Olives"],
+        "instruction": ["Heat oven to 180C\/fan 160C\/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges,", " Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest,", "Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes,", "Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked,", "Scatter over the parsley and serve,", "Enjoy!"]
+    },
+
+    "budino di ricotta": {
+        "name": "Budino Di Ricotta",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/1549542877.jpg",
+        "description":"A light but delicately creamy ricotta cake recipe. This delicious dessert, which is a popular Roman pudding, comes from The Food of Italy by Claudia Roden",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=6dzd6Ra6sb4",
+        "recipe": ["Ricotta", "Eggs", "Flour", "Sugar", "Cinnamon", "Lemons", "Dark Rum", "Icing Sugar"],
+        "instruction": ["Mash the ricotta and beat well with the egg yolks, stir in the flour, sugar, cinnamon, grated lemon rind and the rum and mix well,", "You can do this in a food processor,", "Beat the egg whites until stiff, fold in and pour into a buttered and floured 25cm cake tin. Bake in the oven at 180\u00baC\/160\u00baC fan\/gas 4 for about 40 minutes, or until it is firm,", "Serve hot or cold dusted with icing sugar,", "Enjoy!"]
+    },
+    
+    "breakfast potatoes": {
+        "name": "Breakfast Potatoes",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/1550441882.jpg",
+        "description":"Hash browns, or hashed brown potatoes, are a breakfast side dish of shredded potatoes that you season with salt, pepper, and any other flavorings and sauté until they are golden brown and crispy on the outside and still soft on the inside",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=BoD0TIO9nE4",
+        "recipe": ["Potatoes", "Olive Oil", "Bacon", "Garlic Clove", "Maple Syrup", "Parsley", "Salt", "Pepper", "Allspice"],
+        "instruction": ["Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!\r\nWash the potatoes and cut medium dice into square pieces,", "To prevent any browning, place the already cut potatoes in a bowl filled with water,", "In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat,", "Tilt the skillet so the oil spreads evenly.\r\nOnce the oil is hot, drain the potatoes and add to the skillet. Season with salt, pepper, and Old Bay as needed,", "Cook for 10 minutes, stirring the potatoes often, until brown,", "If needed, add a tablespoon more of oil. Chop up the bacon and add to the potatoes,", "The bacon will start to render and the fat will begin to further cook the potatoes,", "Toss it up a bit! The bacon will take 5-6 minutes to crisp,", "Once the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss,", " Season once more. Add dried or fresh parsley. Control heat as needed,", "Let the garlic cook until fragrant, about one minute. Just before serving, drizzle over the maple syrup and toss,", "Let that cook another minute, giving the potatoes a caramelized effect,", "Serve in a warm bowl with a sunny side up egg!,", "Enjoy!"]
+    },
+
+    "chocolate gateau": {
+        "name": "Chocolate Gateau",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tqtywx1468317395.jpg",
+        "description":"A gâteau is the ultimate show-stopper cake. This crowd-pleaser is typically a lot more indulgent than a traditional cake with its rich fillings and decadent sponge layers. Popular gâteau fillings include thick cream, ganache or mousse, melted chocolate and lots of fresh fruit",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=dsJtgmAhFF4",
+        "recipe": ["Plain chocolate", "Butter", "Milk", "Eggs", "Granulated Sugar", "Flour"],
+        "instruction": ["Preheat the oven to 180\u00b0C\/350\u00b0F\/Gas Mark 4,", "Grease and line the base of an 8 in round spring form cake tin with baking parchment\r\nBreak the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts,", "(or melt in the microwave for 2-3 mins stirring occasionally)\r\nPlace the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy,", "Gradually beat in the eggs, adding a little flour if the mixture begins to curdle,", "Fold in the remaining flour with the cooled, melted chocolate and milk,", "Mix until smooth.\r\nSpread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly,", "Cool for 10 minutes, then turn out and cool completely,", "Enjoy!"]
+    },
+
+    "chicken enchilada casserole": {
+        "name": "Chocolate Gateau",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/qtuwxu1468233098.jpg",
+        "description":"You'll really enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=EtVkwVKLc_M",
+        "recipe": ["Enchilada sauce", "shredded Monterey Jack cheese", "corn tortillas", "chicken breasts"],
+        "instruction": ["Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot,", "Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce,", " Make sure you stir occasionally so that it doesn't stick to the bottom,", "Remove chicken from the pot and shred with two forks.Preheat oven to 375 F degrees. Start layering the casserole,", "Start with about \u00bc cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across,", "Place 2 tortillas on the bottom, top with \u2153 of the chicken and \u2153 of the remaining sauce,", "Sprinkle with \u2153 of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese,", "Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.\r\nBake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top,", "Serve warm, Enjoy!"]
+    },
+
+    "cream cheese tart": {
+        "name": "Cream Cheese Tart",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wurrux1468416624.jpg",
+        "description":"This Raspberry Cream Cheese Tart starts with a pre-baked shortbread crust that is filled with raspberries and a cream cheese filling",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=UhQPwO4uymo",
+        "recipe": ["Flour", "Butter", "Eggs", "Salt", "cheese", "milk", "Parmesan Cheese", "Plum tomatoes", "White Vinegar", "Honey", "Basil"],
+        "instruction": ["Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge,", "Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork,", "Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time,", "In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well,", "With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves,", "Enjoy!"]
+    },
+
+    "christmas pudding flapjack": {
+        "name": "Christmas Pudding Flapjack",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/vvusxs1483907034.jpg",
+        "description":"You will surely enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=OaqvGvEiwzU",
+        "recipe": ["salted butter", "dark soft brown sugar", "golden syrup", "orange", "rolled oats", "Christmas pudding"],
+        "instruction": ["Preheat the oven to 180\u00b0C\/fan 160\u00b0C\/gas mark 4 and grease and line a 25cm x 20cm tin. Melt the butter, sugar, syrup and orange zest in a large saucepan over a medium heat,", "The aim is to dissolve all the ingredients so that they are smooth, but to not lose any volume through boiling so be careful not to overheat,", "Add the oats and stir well until evenly coated. Stir through the leftover Christmas pudding and tip into the prepared tin,", "Use a spoon to flatten the top and bake for 40 minutes until the edges start to brown,", "Whilst still warm in the tin, score into 12 squares,", "Allow to cool completely before cutting along the scores,", "Keeps for 5 days in an air tight tin or freeze for up to 1 month,", "Enjoy!"]
+    },
+
+    "chicken handi": {
+        "name": "chicken handi",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/wyxwsp1486979827.jpg",
+        "description":"Chicken Handi translates to chicken in clay pot. Traditionally this curry is made in a terrocota pot which imparts its unique flavour to this dish. Chicken Handi is milder than other South Asian curries but still rich in flavour. The chicken is cooked in a creamy base of yogurt and cream",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=IO0issT0Rmc",
+        "recipe": ["Chicken", "Onion", "Tomatoes", "Garlic", "Ginger paste", "Vegetable oil", "Cumin seeds", "Coriander seeds", "Turmeric powder", "Chilli powder", "Green chilli", "Yogurt", "Cream", "fenugreek", "Garam masala"],
+        "instruction": ["Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it,", " Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside,", "To the same pot, add the chopped garlic and saut\u00e9 for a minute,", "Then add the chopped tomatoes and cook until tomatoes turn soft,", "This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir,", " Add ginger paste and saut\u00e9 well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies,", "Give them a quick stir.\r\nNext goes in the spices \u2013 turmeric powder and red chilli powder,", " Saut\u00e9 the spices well for couple of minutes,", "Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through,", "This would take about 15 minutes,", "Slowly saut\u00e9ing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat,", "When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn\u2019t split,", "Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves,", "Mix well.\r\nFinally add the cream and give a final mix to combine everything well,", "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis,", "Enjoy!"]
+    },
+
+    "chicken alfredo primavera": {
+        "name": "Chicken Alfredo Primavera",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/syqypv1486981727.jpg",
+        "description":"You will surely enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=qCIbq8HywpQ",
+        "recipe": ["Butter", "Olive Oil", "Chicken", "salt", "Squash", "Broccoli", "mushrooms", "Pepper", "onion", "garlic", "red pepper flakes", "white wine", "milk", "heavy cream", "Parmesan cheese", "bowtie pasta", "Pepper", "Parsley"],
+        "instruction": ["Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat,", "Season both sides of each chicken breast with seasoned salt and a pinch of pepper,", "Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through,", "While the chicken is cooking, bring a large pot of water to a boil,", "Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir,", "Cook, stirring occasionally, until al dente, about 12 minutes,", "Reserve 1\/2 cup of  pasta water before draining the pasta,", "Remove the chicken from the pan and transfer it to a cutting board; allow it to rest,", "Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken,", "Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning),", "Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute,", "Deglaze the pan with the white wine,", "Continue to cook until the wine has reduced by half, about 3 minutes,", "Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes,", "Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste,", "Garnish with Parmesan cheese and chopped parsley, if desired,", "Enjoy!"]
+    },
+
+    "chicken fajita mac and cheese": {
+        "name": "Chicken Fajita Mac and Cheese",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/qrqywr1503066605.jpg",
+        "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae optio distinctio praesentium veniam. Vel repellat praesentium alias molestiae corrupti iste odit consequuntur. Rerum, expedita minima?",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=bwTSmLTZKNg",
+        "recipe": ["macaroni", "chicken stock", "heavy cream", "fajita seasoning", "salt", "chicken breast", "olive oil", "onion", "red pepper", "garlic", "cheddar cheese", "parsley"],
+        "instruction": ["Fry your onion, peppers and garlic in olive oil until nicely translucent,", "Make a well in your veg and add your chicken,", "Add your seasoning and salt. Allow to colour slightly,", "Add your cream, stock and macaroni.\r\nCook on low for 20 minutes,", "Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsle,", "Enjoy!"]
+    },
+
+    "cajun spiced fish tacos": {
+        "name": "Cajun spiced fish tacos",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/uvuyxu1503067369.jpg",
+        "description":"You'll really enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=N4EdUt0Ou48",
+        "recipe": ["cajun", "cayenne pepper", "white fish", "vegetable oil", "flour tortilla", "avocado", "little gem lettuce", "spring onion", "salsa", "sour cream", "lemon", "garlic"],
+        "instruction": ["Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome,", "Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery,", "On a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over,", "Heat a little oil in a frying pan, add in the fish and cook over a medium heat until golden,", "Reduce the heat and continue frying until the fish is cooked through, about 10 minutes,", "Cook in batches if you don\u2019t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning,", "Soften the tortillas by heating in the microwave for 5-10 seconds,", "Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressin,", "Enjoy!"]
+    },
+
+    "chicken karaage": {
+        "name": "Chicken Karaage",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tyywsw1505930373.jpg",
+        "description":"Karaage, is a deep-fried dish where a protein or vegetable is coated in potato starch and deep-fried until crisp. Chicken is the most common protein, but it's also made with seafood, such as blowfish",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=XivddFddthc",
+        "recipe": ["Chicken thigh", "Ginger", "Garlic", "Soy sauce", "Sake", "Granulated sugar", "Potato starch", "Vegetable oil", "Lemon"],
+        "instruction": ["Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine,", "Add the chicken, then stir to coat evenly,", " Cover and refrigerate for at least 1 hour,", "Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out,", "Put the potato starch in a bowl\r\n\r\nAdd a handful of chicken to the potato starch and toss to coat each piece evenly,", "Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through,", "Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once,", "Serve with lemon wedges,", "Enjoy!"]
+    },
+
+    "chilli prawn linguine": {
+        "name": "Chilli prawn linguine",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/usywpp1511189717.jpg",
+        "description":"You will surely enjoy it",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=SC17Mc70Db0",
+        "recipe": ["Linguine Pasta", "Sugar Snap Peas", "Olive Oil", "Garlic Clove", "Red Chilli", "King Prawns", "Cherry Tomatoes", "Basil Leaves", "Lettuce", "Bread", "Fromage Frais", "Lime", "Caster Sugar"],
+        "instruction": ["Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside,", "Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown,", "Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink,", "nAdd the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften,", "Drain the pasta and sugar snaps well, then toss into the prawn mixture,", "Tear in the basil leaves, stir, and season with salt and pepper.\r\n\r\nServe with salad leaves drizzled with the lime dressing, and warm crusty bread,", "Enjoy!"]
+    },
+
+    "egusi soup": {
+        "name": "Egusi soup",
+        "cover": "https://demandafrica.com/wp-content/uploads/2017/06/EgusiSoup-e1533238405501.jpg",
+        "description":"You'll really enjoy it",
+        "youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwioxM_Ul976AhVHzKQKHdr0ChgQwqsBegQIIBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXeZJlxAsP18&usg=AOvVaw0MmSTBEJbMKpKmrDGJ8DMt",
+        "recipe": ["1 cup blended onions (about 3- 5 and fresh chilies, to taste)", "4 cups egusi (melon seeds, ground or milled)", "1⁄2 – 1 cup palm oil", "2 teaspoons fresh Une (Iru, locust beans)", "Salt (to taste)", "Ground crayfish (to taste)", "7– 8 cups stock", "Cooked Meat & fish (quantity and variety to personal preference)", "2 cups cut pumpkin leaves", "1 cup waterleaf (cut)", "3 tablespoons bitter leaf (washed)"],
+        "instruction": ["Prepare the egusi paste,", "Blend egusi seeds and onion mixture. Set aside,", "In a large pot, heat the palm oil on medium for a minute and then add the Une,", "Slowly add the stock and set on low heat to simmer,", "Scoop teaspoon size balls of the egusi paste mixture into the stock. Be sure to keep ball shape,", "Leave to simmer for 20 – 30 minutes so the balls cook through,", "Add the meat and fish and other bits which you’d like to use,", "Add cut-up pumpkin leaves,", "Add the waterleaf,", "Stir and put a lid on the pot and allow cook for 7–10 minutes, till the leaves wilt,", "Add the bitter leaf.  Leave the lid off while the cooking finishes for another 5-10 minutes,", "Stir, check seasoning and adjust accordingly,", "Enjoy!"]
+    },
+
+    "chivito uruguayo": {
+        "name": "chivito uruguayo",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/n7qnkb1630444129.jpg",
+        "description":"It is very delicious",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=0PXbbL1QdaA&ab_channel=D%C3%ADadeCocina",
+        "recipe": ["Beef Brisket", "Bread", "Lettuce", "Tomato", "Ham", "Mozzarella", "Bacon", "Egg", "Onion", "Pepper"],
+        "instruction": ["Crush the meat so that it is finite and we put it on a griddle to brown,", "Put the eggs, bacon and ham to fry,", "Cut the bread in half, put the beef brisket, the fried eggs, the bacon, the ham, the mozzarella, the tomato and the lettuce,", "Cover with the other half of the bread and serve,", "Enjoy!"]
+    },
+
+    "burek": {
+        "name": "Burek",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tkxquw1628771028.jpg",
+        "description":"Egusi is a traditional one-pot soup that combines blended melon seed, pepper, leafy vegetables, and meat. It is nutty, spicy, and tasty.",
+        "youtube": "https:\/\/www.youtube.com\/watch?v=YsJXZwE5pdY",
+        "recipe": ["Filo Pastry", "Minced Beef", "Onion", "Oil", "Salt", "Pepper"],
+        "instruction": ["Fry the finely chopped onions and minced meat in oil. Add the salt and pepper,", "Grease a round baking tray and put a layer of pastry in it,", "Cover with a thin layer of filling and cover this with another layer of filo pastry which must be well coated in oil. Put another layer of filling and cover with pastry,", "When you have five or six layers, cover with filo pastry, bake at 200\u00baC\/392\u00baF for half an hour and cut in quarters and serve,", "Enjoy!"]
+    },
+
+    "moi moi": {
+        "name": "Moi Moi",
+        "cover": "https://cheflolaskitchen.com/wp-content/uploads/2022/06/Moin-Moin-20220417-1150_0204-moi-moi-recipe-735x1103.jpg.webp",
+        "description":"Moin-moin or moimoi is a steamed or boiled bean pudding made from a mixture of washed and peeled black-eyed beans, often combined with onions and fresh ground red peppers. Its a protein-rich food that is a staple in Nigeria. This dish originated from the Yoruba tribe",
+        "youtube": "https://www.youtube.com/watch?v=MqtuY6kuDkc&t=1s",
+        "recipe": ["1 to 2 sweet peppers (fresh paprika) or tatashe", "2 cups black eyed beans", "Habanero or Scotch bonnet pepper (to your taste)", "⅓ cup vegetable oil", "1 onion", "2 tsp ground nutmeg", "1 to 2 tbsp ground crayfish", "1 big seasoning cube", "Salt (to taste)"],
+        "instruction": ["Soak the beans for about 10 to 15 minutes,", "Drain and pour the soaked beans into the food processor,", "Pulse a couple of times to remove the skin,", "Pour the beans into a large bowl. Add enough water to cover the beans,", "Swirl all around till the skin floats, then pour off the skin,", "Repeat the process a couple of times until all the skin come off,", "Blend the beans and other ingredients,", "Turn the batter into a bowl,", "Add fish chunks or liver,", "Prepare the bowls,", "Portion the batter to the bowls,", "Add the boiled egg on top,", "Put the pot on the stove and add boiled water,", "Arrange the Moi Moi in the pot and cover,", "Carefully remove the Moi Moi from the plate and enjoy,", "Enjoy!"]
+    }
+}
