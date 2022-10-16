@@ -104,7 +104,7 @@ const Res = () => {
 
             {
                 !data && !isInputBlank && !isNotFound && (
-                    <div className="flex flex-col items-center justify-center max-w-[600px] h-[52vh] mx-auto  py-6">
+                    <div className="flex flex-col items-center justify-center max-w-[600px] mx-auto  py-6">
                         <img className="mb-3" src={Logo} alt="" />
                         <p className="text-center leading-7">Are you having problem, preparing that meal your heart desires?. Worry no more, <span className="text-bgColor">bChef</span> is here with the full recipe and link to youtube video. Get into the kitchen and prepare something delicious!.</p>
                         <button className="bg-darkBlue px-3 py-1 text-white rounded-lg mt-3 hover:opacity-80"><FaHandsHelping className="inline-flex" /> Sponsor</button>

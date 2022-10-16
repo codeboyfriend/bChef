@@ -15,3 +15,9 @@ body {
   background-color: hsl(0, 0%, 96%);
   font-family: 'Ubuntu', sans-serif;
 }
+
+.home {
+  background: url(../src/assets/images/kitchen.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}

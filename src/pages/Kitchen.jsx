@@ -1,11 +1,8 @@
-// import { FaBar, FaHome } from "react-icons/fa"; 
 import Form from "../components/Form";
 import Res from "../components/Res";
 import Logo from "../assets/images/logo.svg"
 
-const Kitchen = () => {
-    
-
+const Kitchen = () => {  
   return (
     <div className="home w-[100%] min-h-[100vh] text-black flex flex-col justify-between  bg-bgWhite">
         <div className="bg-bgColor px-6 md:px-10 py-4">
