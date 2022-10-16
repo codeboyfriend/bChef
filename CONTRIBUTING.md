@@ -104,7 +104,7 @@ git push -u origin my-work
 ```
 11. Perform a merge to sync your current branch with the upstream branch.
 
- ```bash
+```bash
 git fetch upstream
 git merge upstream/main
 ```
