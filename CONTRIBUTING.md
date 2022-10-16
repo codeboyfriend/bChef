@@ -81,7 +81,7 @@ Now, you are ready to start making changes.
 ```sh
 # switch to a new terminal
 npm install
-npm run dev
+npm start
 ```
 
 8. Make your desired changes to any of db.json, style.scss index.html, etc using your preferred editor. 
@@ -94,7 +94,7 @@ npm run dev
 9. Once you're good with your changes, commit them to your branch:
 
 ```sh 
-git commit -m "Add add a recipe"
+git commit -m "Add a recipe"
 ```
 
 10. Now, you can push changes to the branch of your fork repo.
