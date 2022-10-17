@@ -62,8 +62,7 @@ Before adding a recipe, please make sure that the new recipe does not already ex
 :bomb: Now, GO CREATE THOSE ISSUES AND PULL REQUESTS!
 
 # :key: License
-This project is licensed with [MIT](https://www.mit.org/licenses/LICENSE-2.0).
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 If you like the [project](https://bchef.netlify.app/), Don't forget to leave a star :star: . All support is highly appreciated :100:    
     
