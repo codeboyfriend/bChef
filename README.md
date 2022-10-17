@@ -1,4 +1,4 @@
-# Welocme to bChef
+# Welcome to bChef
 
 An open, crowd-sourced database of recipes from around the world. We have over 200 recipes available from different continents.   
 
