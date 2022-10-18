@@ -3,10 +3,10 @@ import GlobalContext from "../context/GlobalContext";
 
 const Form = () => {
     const {
-        userInput, 
-        setUserInput, 
-        setData,
-        fetchData
+      userInput, 
+      setUserInput, 
+      setData,
+      fetchData
     } = useContext(GlobalContext);    
     
 

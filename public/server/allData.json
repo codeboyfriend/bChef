@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "jollof rice",
+        "cover": "/icons/manifest-icon-512.maskable.png"
+    },
+
+    {
+        "id": 2,
+        "name": "gbegiri soup",
+        "cover": "/icons/manifest-icon-512.maskable.png"
+    },
+
+    {
+        "id": 3,
+        "name": "spaghetti",
+        "cover": "/icons/manifest-icon-512.maskable.png"
+    },
+
+    {
+        "id": 4,
+        "name": "spaghetti",
+        "cover": "/icons/manifest-icon-512.maskable.png"
+    },
+
+    {
+        "id": 5,
+        "name": "spaghetti",
+        "cover": "/icons/manifest-icon-512.maskable.png"
+    }
+]

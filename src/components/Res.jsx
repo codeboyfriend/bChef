@@ -8,7 +8,7 @@ const Res = () => {
         data,
         userInput,
         isInputBlank,
-        isNotFound 
+        isNotFound
      } = useContext(GlobalContext);
 
     return (

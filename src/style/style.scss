@@ -44,4 +44,10 @@ html::-webkit-scrollbar-thumb {
   text-transform: capitalize;
 }
 
+.box {
+  border: 2px solid $brightCyan;
+  border-radius: 5px;
+  outline: hidden;
+}
+
 @import "_media";

@@ -1,6 +1,7 @@
 import Form from "../components/Form";
 import Res from "../components/Res";
-import Logo from "../assets/images/logo.svg"
+import Logo from "../assets/images/logo.svg";
+import Map from "../components/Map";
 
 const Kitchen = () => {  
   return (
@@ -19,6 +20,10 @@ const Kitchen = () => {
         
         <div className="px-6 md:px-10 py-4">
           <Res />
+        </div>
+
+        <div>
+          <Map />
         </div>
 
         <div className="footer w-[100%] bg-bgColor py-3">
