@@ -56,4 +56,10 @@ html::-webkit-scrollbar-thumb {
   outline: hidden;
 }
 
+.item_img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
 @import "_media";

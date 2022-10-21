@@ -1,34 +1,27 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import GlobalContext from "../context/GlobalContext";
-import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
-import 'swiper/css';
 import Item from "./Item";
 
 const Map = () => {
     const { 
         allData 
     } = useContext(GlobalContext);
+    const [showAll, setShowAll] = useState(false)
     
   return (
-    <Swiper
-      spaceBetween={50}
-      slidesPerView={2}
-      onSlideChange={() => console.log('slide change')}
-      onSwiper={(swiper) => console.log(swiper)}
-    >
     <div className="px-6 md:px-10 py-4">
-        <div className="mb-2 text-xl font-bold">Trending:</div>
+        <div className="flex items-center justify-between pr-6">
+          <h3 className="mb-2 text-xl font-bold">Trending:</h3>
+          <p className="cursor-pointer text-sm" onClick={() => setShowAll(!showAll)}>{!showAll ? 'Show All' : 'Show Less'} {'>>'}</p>
+        </div>
         <div className="box">
-            {allData.map((items) => <Item 
-                key={items.id}
-                items={items}
-                SwiperSlide={SwiperSlide} 
+            {allData.slice(!showAll && (1, -4))
+            .map((items) => <Item 
+              key={items.id}
+              items={items}
             />)}
         </div>
     </div>
-    </Swiper>
   )
 }
 

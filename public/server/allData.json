@@ -2,48 +2,48 @@
     {
         "id": 1,
         "name": "jollof rice",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/jollof_rice_2.jpg"
     },
 
     {
         "id": 2,
         "name": "gbegiri soup",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/gbegiri-soup.jpg"
     },
 
     {
         "id": 3,
         "name": "spaghetti",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/01/spaghetti-recipe.jpg"
     },
 
     {
         "id": 4,
-        "name": "spaghetti",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "name": "moi moi",
+        "cover": "https://cheflolaskitchen.com/wp-content/uploads/2022/06/Moin-Moin-20220417-1150_0204-moi-moi-recipe-735x1103.jpg.webp"
     },
 
     {
         "id": 5,
-        "name": "spaghetti",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "name": "vegetable soup",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/03/efo-riro.jpg"
     },
 
     {
-        "id": 1,
-        "name": "jollof rice",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "id": 6,
+        "name": "banga stew",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2014/12/banga-soup..jpg"
     },
 
     {
-        "id": 2,
-        "name": "gbegiri soup",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "id": 7,
+        "name": "apam balik",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/adxcbq1619787919.jpgg"
     },
 
     {
-        "id": 3,
-        "name": "spaghetti",
-        "cover": "/icons/manifest-icon-512.maskable.png"
+        "id": 8,
+        "name": "burek",
+        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tkxquw1628771028.jpg"
     }
 ]

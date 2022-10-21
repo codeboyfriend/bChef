@@ -1,6 +1,6 @@
 @media (max-width: 600px) {
     .res_box {
-        grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
     }
 }
 
@@ -8,16 +8,28 @@
     .box {
       grid-template-columns: repeat(3, 1fr);
     }
+
+    .item_img {
+      height: 220px;
+    }
 }
 
 @media (max-width: 500px) {
     .box {
       grid-template-columns: repeat(2, 1fr);
     }
+
+    .item_img {
+      height: 200px;
+    }
 }
 
 @media (max-width: 350px) {
     .box {
       grid-template-columns: 1fr;
+    }
+
+    .boxes {
+      width: 240px;
     }
 }
