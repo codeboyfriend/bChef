@@ -1,12 +1,13 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import GlobalContext from "../context/GlobalContext";
 import Item from "./Item";
 
 const Map = () => {
     const { 
-        allData 
+        allData,
+        showAll,
+        setShowAll 
     } = useContext(GlobalContext);
-    const [showAll, setShowAll] = useState(false)
     
   return (
     <div className="px-6 md:px-10 py-4">

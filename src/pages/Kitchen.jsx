@@ -2,6 +2,7 @@ import Form from "../components/Form";
 import Res from "../components/Res";
 import Logo from "../assets/images/logo.svg";
 import Map from "../components/Map";
+import Suggest from "../components/Suggest";
 
 const Kitchen = () => {  
   return (
@@ -24,6 +25,10 @@ const Kitchen = () => {
 
         <div>
           <Map />
+        </div>
+
+        <div>
+          <Suggest />
         </div>
 
         <div className="footer w-[100%] bg-bgColor py-3">

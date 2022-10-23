@@ -8,6 +8,7 @@ export const GlobalProvider = ({ children }) => {
     const [data, setData] = useState(null);
     const [isInputBlank, setIsInputBlank] = useState(false);
     const [isNotFound, setIsNotFound] = useState(false);
+    const [showAll, setShowAll] = useState(false)
 
     const url = `/server/db.json`;
     const urls = `/server/allData.json`;
@@ -89,7 +90,9 @@ export const GlobalProvider = ({ children }) => {
             fetchData,
             fetchEachData,
             isInputBlank,
-            isNotFound
+            isNotFound,
+            showAll,
+            setShowAll
         }}>
             { children }
         </GlobalContext.Provider>
