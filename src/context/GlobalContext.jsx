@@ -5,13 +5,16 @@ const GlobalContext = createContext()
 export const GlobalProvider = ({ children }) => { 
     const [userInput, setUserInput] = useState("");
     const [allData, setAllData] = useState([]);
+    const [sdata, setSdata] = useState([]);
     const [data, setData] = useState(null);
     const [isInputBlank, setIsInputBlank] = useState(false);
     const [isNotFound, setIsNotFound] = useState(false);
     const [showAll, setShowAll] = useState(false)
+    const [sAll, setSAll] = useState(false)
 
     const url = `/server/db.json`;
     const urls = `/server/allData.json`;
+    const surl = `/server/suggest.json`;
     const fetchData = (e) => {
       e.preventDefault();
 
@@ -71,6 +74,19 @@ export const GlobalProvider = ({ children }) => {
           .then ((data) => {
             setAllData(data);
           })
+
+         
+        fetch(`${surl}`) 
+          .then((response) => {
+            if(!response.ok) {
+                throw Error("Resource not found");
+            }
+                return response.json();
+          })
+          .then ((data) => {
+            setSdata(data)
+          })
+
       }
 
       useEffect(() => {
@@ -86,13 +102,16 @@ export const GlobalProvider = ({ children }) => {
             setUserInput,
             data,
             allData,
+            sdata,
             setData,
             fetchData,
             fetchEachData,
             isInputBlank,
             isNotFound,
             showAll,
-            setShowAll
+            setShowAll,
+            sAll,
+            setSAll
         }}>
             { children }
         </GlobalContext.Provider>
