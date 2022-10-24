@@ -14,7 +14,8 @@ const LandingPage = () => {
 
             <button 
               className='btn px-4 py-1' 
-              onClick={() => navigate('/kitchen')}>Enter Kitchen</button>
+              onClick={() => navigate('/kitchen')}>Enter Kitchen
+            </button>
         </div>
     </div>
   )
