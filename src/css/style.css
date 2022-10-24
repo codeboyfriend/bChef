@@ -75,7 +75,7 @@ html::-webkit-scrollbar-thumb {
     grid-template-columns: repeat(2, 1fr);
   }
   .item_img {
-    height: 200px;
+    height: 160px;
   }
 }
 @media (max-width: 350px) {

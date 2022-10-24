@@ -13,37 +13,37 @@
 
     {
         "id": 3,
-        "name": "spaghetti",
+        "name": "tteboki",
         "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/01/spaghetti-recipe.jpg"
     },
 
     {
         "id": 4,
         "name": "jollof rice",
-        "cover": "https://cheflolaskitchen.com/wp-content/uploads/2022/06/Moin-Moin-20220417-1150_0204-moi-moi-recipe-735x1103.jpg.webp"
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/jollof_rice_2.jpg"
     },
 
     {
         "id": 5,
-        "name": "okro soup",
+        "name": "noodles",
         "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/03/efo-riro.jpg"
     },
 
     {
         "id": 6,
-        "name": "banga stew",
-        "cover": "https://allnigerianfoods.com/wp-content/uploads/2014/12/banga-soup..jpg"
+        "name": "spaghetti",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/2015/01/spaghetti-recipe.jpg"
     },
 
     {
         "id": 7,
-        "name": "noname",
-        "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/adxcbq1619787919.jpgg"
+        "name": "ewa agoyin",
+        "cover": "https://allnigerianfoods.com/wp-content/uploads/Ewa-agoyin.jpg"
     },
 
     {
         "id": 8,
-        "name": "noname",
+        "name": "pizza",
         "cover": "https:\/\/www.themealdb.com\/images\/media\/meals\/tkxquw1628771028.jpg"
     }
 ]
