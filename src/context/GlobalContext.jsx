@@ -22,7 +22,7 @@ export const GlobalProvider = ({ children }) => {
         .then((response) => {
             if (!response.ok) {
             throw Error("Resource not found.");
-            }
+            };
             return response.json();
         })      
         .then ((data) => {
@@ -36,9 +36,9 @@ export const GlobalProvider = ({ children }) => {
                 setData(data);
                 setIsInputBlank(false);
                 setIsNotFound(false);        
-            }
-        })
-    }
+            };
+        });
+    };
 
     const fetchEachData = () => {
         fetch(`${url}`)
@@ -47,7 +47,7 @@ export const GlobalProvider = ({ children }) => {
               throw Error("Resource not found.");
               }
               return response.json();
-          })      
+          })  
           .then ((data) => {
               if (userInput.trim().length === 0) {
                   setIsInputBlank(true);
@@ -59,9 +59,9 @@ export const GlobalProvider = ({ children }) => {
                   setData(data);
                   setIsInputBlank(false);
                   setIsNotFound(false);        
-              }
-          })
-      }
+              };
+          });
+      };
 
     const fetchAllData = () => {
         fetch(`${urls}`)
@@ -73,7 +73,7 @@ export const GlobalProvider = ({ children }) => {
           })      
           .then ((data) => {
             setAllData(data);
-          })
+          });
 
          
         fetch(`${surl}`) 
@@ -85,15 +85,14 @@ export const GlobalProvider = ({ children }) => {
           })
           .then ((data) => {
             setSdata(data)
-          })
-
-      }
+          });
+      };
 
       useEffect(() => {
         fetchAllData();
       }, 
       // eslint-disable-next-line
-      [])
+      []);
       
 
     return (
